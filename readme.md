@@ -175,8 +175,56 @@ This course follows the equity, accessibility, and student care policies of the 
 * **Religious observance needs**
 * **Mental health or student care resources** (e.g. SafeCampus, LiveWell)
 
----
 
-> All course materials are open access and hosted via GitHub and Google Drive. You are encouraged to reuse and remix materials in your own future projects.
+## :bell: Course Requirement
 
-If you'd like, I can now create the GitHub repo structure, sample reading reflection prompts, or Google Colab notebook templates. Just let me know what you'd like next!
+**:computer:  Computational skill:** This course welcomes students who some computational experience, or have programmed in a python or javascript IDE (Integrated Development Environment). Students should at least hear of GIS, GitHub, Leaflet, web crawler, or Raspberry Pi before considering this seminar, and most importantly, be self-motivated to solve a research question with the listed computational skills.
+
+**:scroll: Statement of intent:** Please prepare a short statement of intent describing your project on or before the end of **Week 1.** Please feel free to plan your writing project to help advance progress in your own work – qualifying exam essay, draft of journal article, side project, etc. I am happy to meet with you to talk more about your writing project.
+
+**:rocket: GitHub:** This course material will be hosted on GitHub instead of UW Canvas. On this dedicated GitHub repository for this course, you can find most of the course material, participate in group discussions by submitting GitHub issues, and creating new GitHub repositories to turn in practical exercise deliverables. By the end of this quarter, you will be more proficient in operating a cloud-based coding environment and able to host your work online as a way to gain public and peer attentions.
+
+**:teacher: Seminar leadership:** You will take at least two turns facilitating our seminar exercise and discussion with a few of your classmates. You will work with one or more others (depending on the enrollment) on this, so you are not responsible for the entire session yourself. Please work together to prepare some activities and guiding questions that will inspire and structure our discussion of the material. The instructor is happy to help you to prepare the practical exercise walk-through before the meeting class.
+
+**:trophy: Practical exercise:** You need to get familiar with the practical exercise instruction before the class meeting in order to better reflect upon the theoretical concepts. We will walk through each practical exercise in class, and you will submit the deliverables to GitHub several days before the class meeting. **As a requirement, you need to submit two practical exercise deliverables. One is Practical Exercise 1, and the other is a lab of your interest.**
+
+**:woman_technologist: Participation in seminar discussion:** Complete all assigned readings and get familiar with the practical exercise instructions before class meetings, and participating in critical discussions of those readings.
+
+**:woman_scientist: Thinkpiece:** Your weekly think pieces should be at least 350 words in length and should engage critically with **3 or more of the week’s readings**. There is no right or wrong way to write a think piece and you should feel free to experiment, but ensure that you are citing your sources and that your piece is clear and free of any typos. Below are some additional suggestions/guiding thoughts to help shape your piece.
+
+- Though your think piece doesn’t need to follow a formal essay structure, organization, content, and clarity is still important.
+- Don’t merely summarize. Develop your own thoughts and reflections in connection to the readings, the lab assignments and the weekly lecture.
+- Lead your reader somewhere beyond the simple observation; in other words, make a point or several points and examine them in depth.
+- Use examples and quotations from the assigned text to support what you say. Effective quotations make the piece stronger and more convincing.
+- Use the practical exercise to express more than how you “feel” about the text or problem. Whether you liked the text or not is relevant but should not be the central focus of your think piece.
+- Make connections between the assigned text and the course content and above all, explore your own ideas and thoughts about the assigned text; after all, that is the point of the assignment.
+
+Please craft your think piece to the [**GitHub issues page**](https://github.com/jakobzhao/geog521/issues) two days before the meeting – so your colleagues leading discussion can draw on your ideas in planning activities for our class session.
+
+**:open_book: Writing project:** During the quarter, you will complete a larger writing project that engages with the seminar material and course themes, along with additional readings that you bring into conversation with the assigned course readings. You are aiming for 15-20 pages coalescing around ideas and readings from this quarter – you can take up and extend one of the themes from our weekly structure or develop a new one relevant to your own work and thinking. Writing projects is due no later than the end of **Week 10**.
+
+## :heavy_check_mark: Grading
+
+Based on the above requirements - **40%** seminar participation, think pieces, and discussion leadership, **20%** practical exercise, **40%** writing project.
+
+## :notebook_with_decorative_cover: Equity & Inclusivity
+
+Our very highest priorities include creating a brave and supportive class environment where each of us contributes, we can ask big questions, we give and receive critiques in a supportive way, we notice and engage the ways that we are differently situated within past and present relationship of power, privilege and oppression. I invite you to think hard about how race, gender identity, religion, age, citizenship status, first language, ability, sexuality, class, and other axes are at work in our interactions, and what this might mean in terms of when to speak up, when to step back, how to listen, and much more. Each of you is a welcome and invaluable part of our collective whole.
+
+## :love_letter: Disability Accommodations
+
+We welcome the opportunity to work with any students with disabilities in this class to ensure equal access to the course. If you have a letter from Disability Resources for Students (DRS) outlining your academic accommodations, please present the letter to me (or email us, to confirm, if the letter is electronic) as soon as possible so that we can discuss the accommodations you may need for this class. Any discussions between student and professor need to occur as early as possible in order for adequate arrangements to be made. If you do not yet have a letter from DRS, but would like to request academic accommodations due to a disability, please contact DRS [here (Links to an external site.)](https://depts.washington.edu/uwdrs/), or in-person at 011 Mary Gates Hall, or at 206-543-8924 (Voice & Relay), [mailto:uwdrs@uw.edu](mailto:uwdrs@uw.edu).
+
+## :mosque:  Religious Accommodations
+
+Washington state law requires that UW develop a policy for accommodation of student absences or significant hardship due to reasons of faith or conscience, or for organized religious activities. The UW’s policy, including more information about how to request an accommodation, is available at [Religious Accommodations Policy](https://registrar.washington.edu/staffandfaculty/religious-accommodations-policy/). Accommodations must be requested within the first two weeks of this course using the [Religious Accommodations Request form](https://https:/registrar.washington.edu/students/religious-accommodations-request/).
+
+## :memo:  Student Care & Safety
+
+<a href="https://hgis.uw.edu"><img src="res/logo.png" align="right" width="300px" target="_blank" /></a> It is important that you take care of yourselves inside and outside of class as you work through stress and other obstacles. There are many different support services on campus that can help, such as the Counseling Center, Hall Health, and the IMA. UW’s Student Care program can help you connect to these and other resources. Learn more an contact them directly: http://depts.washington.edu/livewell/student-care/, livewell@uw.edu, or 206.543.6085. If you are concerned about yourself or a friend who is struggling SafeCampus is a helpful resource. Please add 206.685.7233 to your phones
+
+This course advocates for the open culture. The course materials are open source for both students and open source community to access.
+
+> This web page is the syllabus - There is no printed version, please refer here instead. Make sure refer to this page as often as possible. Also, Feel free to ask the instructor for clarifications whenever needed.
+
+`© 2019-2025 All rights are reserved by Bo Zhao.`
