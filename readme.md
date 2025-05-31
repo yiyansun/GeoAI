@@ -40,8 +40,8 @@ We begin with an overview of AI’s evolution and its intersections with geograp
 
 </details>
 
-* Lab 1: Predicting Housing Prices Using Random Forests
-* Lab 2: Downscaling Land Surface Temperature Data Using Random Forests
+Lab 1: Predicting Housing Prices Using Random Forests
+Lab 2: Downscaling Land Surface Temperature Data Using Random Forests
 
 ### **Week 2: Deep Learning and Remote Sensing**
 
@@ -56,8 +56,8 @@ This week introduces deep learning architectures for interpreting raster imagery
 
 </details>
 
-* Lab 3: Detecting Zebra Crossings in Aerial Images (using CNN + image scraping workflow)
-* Lab 4: Tree Canopy Segmentation Using Meta’s Segment Anything Model
+Lab 3: Detecting Zebra Crossings in Aerial Images (using CNN + image scraping workflow)
+Lab 4: Tree Canopy Segmentation Using Meta’s Segment Anything Model
 
 
 ### **Week 3: LLMs for Mapping and Geospatial Reasoning**
@@ -73,8 +73,8 @@ This week turns to natural language as a mode of spatial analysis. Students expl
 
 </details>
 
-* Lab 5: Prompt-to-Map – Generating Annotated Interactive Thematic Maps with LLMs
-* Lab 6: Natural Language Geocoding – Converting Text to Spatial Data with ChatGPT
+Lab 5: Prompt-to-Map – Generating Annotated Interactive Thematic Maps with LLMs
+Lab 6: Natural Language Geocoding – Converting Text to Spatial Data with ChatGPT
 
 
 ### **Week 4: Critical Reflections on GeoAI: Hallucinations, Bias, and Sustainability**
@@ -91,8 +91,8 @@ We conclude by examining the sociotechnical risks of GeoAI. Students critically 
 
 </details>
 
-* Lab 7: Diagnosing Hallucinations in LLM-based Spatial Analysis
-* Lab 8: Bias in Spatial Data: A Case Study with OpenStreetMap
+Lab 7: Diagnosing Hallucinations in LLM-based Spatial Analysis
+Lab 8: Bias in Spatial Data: A Case Study with OpenStreetMap
 
 ---
 
