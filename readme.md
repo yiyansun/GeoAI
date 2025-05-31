@@ -40,8 +40,6 @@ We begin with an overview of AI’s evolution and its intersections with geograp
 
 </details>
 
-**Labs**
-
 * Lab 1: Predicting Housing Prices Using Random Forests
 * Lab 2: Downscaling Land Surface Temperature Data Using Random Forests
 
@@ -57,8 +55,6 @@ This week introduces deep learning architectures for interpreting raster imagery
 3. Zhao et al. (2021). *Deep Fake Geography? When geospatial data encounters AI*. Cartography and GIS.
 
 </details>
-
-**Labs**
 
 * Lab 3: Detecting Zebra Crossings in Aerial Images (using CNN + image scraping workflow)
 * Lab 4: Tree Canopy Segmentation Using Meta’s Segment Anything Model
@@ -77,8 +73,6 @@ This week turns to natural language as a mode of spatial analysis. Students expl
 
 </details>
 
-**Labs**
-
 * Lab 5: Prompt-to-Map – Generating Annotated Interactive Thematic Maps with LLMs
 * Lab 6: Natural Language Geocoding – Converting Text to Spatial Data with ChatGPT
 
@@ -96,8 +90,6 @@ We conclude by examining the sociotechnical risks of GeoAI. Students critically 
 4. Gurnee, W., & Tegmark, M. (2023). Language models represent space and time. arXiv preprint arXiv:2310.02207.
 
 </details>
-
-**Labs**
 
 * Lab 7: Diagnosing Hallucinations in LLM-based Spatial Analysis
 * Lab 8: Bias in Spatial Data: A Case Study with OpenStreetMap
@@ -125,9 +117,7 @@ Your weekly think pieces should be at least 350 words in length and should engag
 
 ## ✍️ Final Essay
 
-**Due**: End of Week 4
-**Length**: 1500–2000 words
-**Prompt**: Choose a topic related to the course (e.g., LLM hallucinations in spatial data, critical evaluation of GeoAI in disaster response, environmental impact of AI models). Your essay must incorporate at least two technical sources and two critical sources from the course or your own research.
+The final essay is due at the end of Week 4 and should be between 2,500 and 3,000 words, not exceeding 5,000 words in total. Students are expected to choose a topic related to the course—such as hallucinations in large language models when applied to spatial data, a critical evaluation of GeoAI in disaster response, or the environmental impact of AI models. The essay must incorporate at least two technical sources and two critical sources, either drawn from the course materials or from independent research.
 
 
 ## 📊 Evaluation
