@@ -21,7 +21,6 @@ There are no formal lectures or slides in this course; instead, the class is rea
 * 🧪 **Lab Exercises**: Complete 8 hands-on labs, hosted on Google Colab. All code must be well-commented and turned in via GitHub.
 * 💬 **Reading Reflections**: Write four critical responses (approx. 350–500 words) engaging with the assigned readings.
 * 📝 **Final Essay**: Submit a 1500–2000 word essay exploring a GeoAI-related problem, integrating both technical and critical perspectives.
-* 🧠 **Participation**: Attend weekly discussions, prepare readings, and actively contribute to seminar dialogue.
 * 🧾 **Quizzes**: Two short quizzes will assess foundational technical understanding.
 
 
@@ -32,7 +31,7 @@ Each week includes:
 - 2 lab sessions (Google Colab)
 - One reading reflection (due before discussion)
 
-### **Week 1: Introduction to GeoAI & Machine Learning for Spatial Data**
+### **Week 1: Introduction & Machine Learning for Spatial Data**
 
 **Brief Description**
 We begin with an overview of AI’s evolution and its intersections with geographic thought. Students are introduced to foundational machine learning techniques applied to spatial data using Python and Google Colab. This week sets the tone for the course by situating GeoAI within both technical and critical frameworks.
