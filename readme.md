@@ -1,7 +1,7 @@
 # **GEOG495: GeoAI**
 
 - **Instructor:** Bo Zhao, zhaobo@uw.edu
-- **Meeting Time:** Asynchrounous 
+- **Meeting Time:** Asynchronous 
 - **Office Hours:** By appointment or request a zoom meeting via https://t.ly/kpj_t
 
 <img src="res/geoai.png" align="right" width="20%" target="_blank" /> This course explores the emerging field of Geospatial Artificial Intelligence (GeoAI), focusing on the integration of machine learning, deep learning, and large language models (LLMs) in the context of geographic data. Students will engage both technically and critically with the tools and concepts shaping the future of spatial analysis. This summer intensive course emphasizes hands-on lab experimentation, paper-driven discussions, and critical reflection on the social and epistemological implications of AI-powered geospatial technologies.
@@ -13,10 +13,8 @@
 * **Critically evaluate** the societal, ethical, and epistemological dimensions of AI in geography.
 * **Engage with** current academic literature through weekly readings and reflections.
 * **Produce** an independent final essay demonstrating synthesis of technical and critical insight.
-
----
-
-## \:scroll: Course Requirements
+ 
+## 📜 Course Requirements
 
 * 🧪 **Lab Exercises**: Complete 8 hands-on labs, hosted on Google Colab. All code must be well-commented and turned in via GitHub.
 * 💬 **Reading Reflections**: Write four critical responses (approx. 350–500 words) engaging with the assigned readings.
@@ -24,7 +22,6 @@
 * 🧠 **Participation**: Attend weekly discussions, prepare readings, and actively contribute to seminar dialogue.
 * 🧾 **Quizzes**: Two short quizzes will assess foundational technical understanding.
 
----
 
 ## 📚 Weekly Schedule
 
@@ -33,7 +30,6 @@
 > • 2 lab sessions (Google Colab)
 > • One reading reflection (due before discussion)
 
----
 
 ### **Week 1: Introduction to GeoAI & Machine Learning for Spatial Data**
 
