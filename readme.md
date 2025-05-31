@@ -15,7 +15,7 @@ There are no formal lectures or slides in this course; instead, the class is rea
 * **Critically evaluate** the societal, ethical, and epistemological dimensions of AI in geography.
 * **Engage with** current academic literature through weekly readings and reflections.
 * **Produce** an independent final essay demonstrating synthesis of technical and critical insight.
- 
+
 ---
 
 ## 📚 Weekly Schedule
