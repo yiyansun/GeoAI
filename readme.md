@@ -16,12 +16,7 @@ There are no formal lectures or slides in this course; instead, the class is rea
 * **Engage with** current academic literature through weekly readings and reflections.
 * **Produce** an independent final essay demonstrating synthesis of technical and critical insight.
  
-## 📜 Course Requirements
-
-* 🧾 **Quizzes**: Two short quizzes will assess foundational technical understanding.
-* 💬 **Reading Reflections**: Write four critical responses (approx. 350–500 words) engaging with the assigned readings.
-* 🧪 **Lab Exercises**: Complete 8 hands-on labs, hosted on Google Colab. All code must be well-commented and turned in via GitHub.
-* 📝 **Final Essay**: Submit a 1500–2000 word essay exploring a GeoAI-related problem, integrating both technical and critical perspectives.
+---
 
 ## 📚 Weekly Schedule
 
@@ -100,15 +95,25 @@ Lab 8: Bias in Spatial Data: A Case Study with OpenStreetMap
 
 ---
 
-##  💻 Computational skill
+## 📜 Course Requirements
+
+###  💻 Computational skill
 
 This course welcomes students who some computational experience, or have programmed in a python or javascript IDE (Integrated Development Environment). Students should at least hear of GIS, GitHub, Leaflet, web crawler, or Raspberry Pi before considering this seminar, and most importantly, be self-motivated to solve a research question with the listed computational skills.
 
-## 🚀 GitHub
+### 🚀 GitHub
 
 This course material will be hosted on GitHub instead of UW Canvas. On this dedicated GitHub repository for this course, you can find most of the course material, participate in group discussions by submitting GitHub issues, and creating new GitHub repositories to turn in practical exercise deliverables. By the end of this quarter, you will be more proficient in operating a cloud-based coding environment and able to host your work online as a way to gain public and peer attentions.
 
-## 👩‍🔬 Reading Reflection
+### 🧾 Quizzes
+
+There will be two short quizzes administered during the course to assess students’ foundational understanding of key technical concepts. These quizzes are designed to reinforce core material covered in lectures, readings, and lab work—such as machine learning workflows, deep learning architectures, spatial data structures, and the capabilities and limitations of large language models in geospatial contexts. The quizzes will be open-note but time-limited, and may include a mix of multiple choice, short answer, and code interpretation questions. While they are not meant to be high-stakes, the quizzes serve as checkpoints to help students consolidate knowledge and ensure readiness for more advanced lab applications.
+
+### 🧪 Lab Exercises
+
+Students are required to complete eight hands-on lab assignments over the course of four weeks. All labs will be conducted using Google Colab and will focus on applying machine learning, deep learning, and large language models to geospatial data. Each lab involves writing and executing Python code, and students must ensure that their code is clearly organized, well-commented, and reproducible. Final versions of each lab should be submitted via GitHub, along with a short README file explaining the objective, approach, and key outcomes. These labs are designed not only to build technical skills, but also to encourage critical reflection on the design and use of GeoAI methods.
+
+### 👩‍🔬 Reading Reflection
 
 Your weekly think pieces should be at least 350 words in length and should engage critically with the week’s readings**. There is no right or wrong way to write a think piece and you should feel free to experiment, but ensure that you are citing your sources and that your piece is clear and free of any typos. Below are some additional suggestions/guiding thoughts to help shape your piece.
 
@@ -119,12 +124,11 @@ Your weekly think pieces should be at least 350 words in length and should engag
 - Use the practical exercise to express more than how you “feel” about the text or problem. Whether you liked the text or not is relevant but should not be the central focus of your think piece.
 - Make connections between the assigned text and the course content and above all, explore your own ideas and thoughts about the assigned text; after all, that is the point of the assignment.
 
-## ✍️ Final Essay
+### ✍️ Final Essay
 
 The final essay is due at the end of Week 4 and should be between 2,500 and 3,000 words, not exceeding 5,000 words in total. Students are expected to choose a topic related to the course—such as hallucinations in large language models when applied to spatial data, a critical evaluation of GeoAI in disaster response, or the environmental impact of AI models. The essay must incorporate at least two technical sources and two critical sources, either drawn from the course materials or from independent research.
 
-
-## 📊 Evaluation
+### 📊 Evaluation
 
 | Component               | Weight |
 | ----------------------- | ------ |
