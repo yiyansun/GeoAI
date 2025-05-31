@@ -18,34 +18,25 @@ There are no formal lectures or slides in this course; instead, the class is rea
  
 ## 📜 Course Requirements
 
-* 🧪 **Lab Exercises**: Complete 8 hands-on labs, hosted on Google Colab. All code must be well-commented and turned in via GitHub.
-* 💬 **Reading Reflections**: Write four critical responses (approx. 350–500 words) engaging with the assigned readings.
-* 📝 **Final Essay**: Submit a 1500–2000 word essay exploring a GeoAI-related problem, integrating both technical and critical perspectives.
 * 🧾 **Quizzes**: Two short quizzes will assess foundational technical understanding.
-
+* 💬 **Reading Reflections**: Write four critical responses (approx. 350–500 words) engaging with the assigned readings.
+* 🧪 **Lab Exercises**: Complete 8 hands-on labs, hosted on Google Colab. All code must be well-commented and turned in via GitHub.
+* 📝 **Final Essay**: Submit a 1500–2000 word essay exploring a GeoAI-related problem, integrating both technical and critical perspectives.
 
 ## 📚 Weekly Schedule
 
-Each week includes:
-- \~3 readings (2 technical, 1 critical)
-- 2 lab sessions (Google Colab)
-- One reading reflection (due before discussion)
+Each week includes ~3 readings, 2 lab sessions (Google Colab) and one piece of reading reflection.
 
 ### **Week 1: Introduction & Machine Learning for Spatial Data**
 
-**Brief Description**
 We begin with an overview of AI’s evolution and its intersections with geographic thought. Students are introduced to foundational machine learning techniques applied to spatial data using Python and Google Colab. This week sets the tone for the course by situating GeoAI within both technical and critical frameworks.
 
 <details>
 <summary><b>Readings</b></summary>
 
-**Technical**
-
 1. Li et al. (2024). *GeoAI for science and the science of GeoAI*. JOSIS.
 2. GeoAI: Machine Learning and Deep Learning with GIS – [GeoWGS84.com](https://www.geowgs84.com/post/geoai-machine-learning-and-deep-learning-with-gis)
-
-**Critical**
-3\. Janowicz et al. (2022). *GeoAI, counter-AI, and human geography: A conversation*. Dialogues in Human Geography.
+3. Janowicz et al. (2022). *GeoAI, counter-AI, and human geography: A conversation*. Dialogues in Human Geography.
 
 </details>
 
@@ -54,22 +45,16 @@ We begin with an overview of AI’s evolution and its intersections with geograp
 * Lab 1: Predicting Housing Prices Using Random Forests
 * Lab 2: Downscaling Land Surface Temperature Data Using Random Forests
 
-
 ### **Week 2: Deep Learning and Remote Sensing**
 
-**Brief Description**
 This week introduces deep learning architectures for interpreting raster imagery, focusing on CNNs for classification and segmentation. Students also critically reflect on the politics of computer vision, data labeling, and representation in spatial AI.
 
 <details>
 <summary><b>Readings</b></summary>
 
-**Technical**
-
 1. TorchGeo documentation & tutorial (Microsoft, 2023)
 2. Li & Ning (2023). *Autonomous GIS: The next-generation AI-powered GIS*. IJDE.
-
-**Critical**
-3\. Zhao et al. (2021). *Deep Fake Geography? When geospatial data encounters AI*. Cartography and GIS.
+3. Zhao et al. (2021). *Deep Fake Geography? When geospatial data encounters AI*. Cartography and GIS.
 
 </details>
 
@@ -81,19 +66,14 @@ This week introduces deep learning architectures for interpreting raster imagery
 
 ### **Week 3: LLMs for Mapping and Geospatial Reasoning**
 
-**Brief Description**
 This week turns to natural language as a mode of spatial analysis. Students explore how LLMs like ChatGPT can perform geocoding, generate maps, and interpret GIS data from text prompts. Discussions center around the promises and limitations of natural language interfaces.
 
 <details>
 <summary><b>Readings</b></summary>
 
-**Technical**
-
 1. Peng & Zhao (2024). *Navigating the ethical landscape behind ChatGPT*. Big Data & Society.
 2. GeoLLM: Extracting Geospatial Knowledge from Large Language Models – [arXiv](https://arxiv.org/abs/2310.06213)
-
-**Critical**
-3\. Gillespie (2024). *Generative AI and the politics of visibility*. Big Data & Society.
+3. Gillespie (2024). *Generative AI and the politics of visibility*. Big Data & Society.
 
 </details>
 
@@ -105,19 +85,14 @@ This week turns to natural language as a mode of spatial analysis. Students expl
 
 ### **Week 4: Critical Reflections on GeoAI: Hallucinations, Bias, and Sustainability**
 
-**Brief Description**
 We conclude by examining the sociotechnical risks of GeoAI. Students critically assess hallucinations, embedded bias, and environmental impacts of AI. The week culminates in an exploratory lab and final reflection.
 
 <details>
 <summary><b>Readings</b></summary>
 
-**Technical**
-
 1. Li et al. (2023). *Making AI less “thirsty”*. arXiv.
 2. He et al. (2023). *LLM4GIS: Benchmarking and diagnosing LLMs for spatial tasks*. arXiv.
-
-**Critical**
-3\. Warf (2025). *Post-Truth GIS*. Transactions in GIS.
+3. Warf (2025). *Post-Truth GIS*. Transactions in GIS.
 
 </details>
 
@@ -146,7 +121,6 @@ Your weekly think pieces should be at least 350 words in length and should engag
 - Use examples and quotations from the assigned text to support what you say. Effective quotations make the piece stronger and more convincing.
 - Use the practical exercise to express more than how you “feel” about the text or problem. Whether you liked the text or not is relevant but should not be the central focus of your think piece.
 - Make connections between the assigned text and the course content and above all, explore your own ideas and thoughts about the assigned text; after all, that is the point of the assignment.
-
 
 ## ✍️ Final Essay
 
