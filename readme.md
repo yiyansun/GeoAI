@@ -27,11 +27,10 @@ There are no formal lectures or slides in this course; instead, the class is rea
 
 ## 📚 Weekly Schedule
 
-> Each week includes:
-> • \~3 readings (2 technical, 1 critical)
-> • 2 lab sessions (Google Colab)
-> • One reading reflection (due before discussion)
-
+Each week includes:
+- \~3 readings (2 technical, 1 critical)
+- 2 lab sessions (Google Colab)
+- One reading reflection (due before discussion)
 
 ### **Week 1: Introduction to GeoAI & Machine Learning for Spatial Data**
 
@@ -56,7 +55,6 @@ We begin with an overview of AI’s evolution and its intersections with geograp
 * Lab 1: Predicting Housing Prices Using Random Forests
 * Lab 2: Downscaling Land Surface Temperature Data Using Random Forests
 
----
 
 ### **Week 2: Deep Learning and Remote Sensing**
 
@@ -81,7 +79,6 @@ This week introduces deep learning architectures for interpreting raster imagery
 * Lab 3: Detecting Zebra Crossings in Aerial Images (using CNN + image scraping workflow)
 * Lab 4: Tree Canopy Segmentation Using Meta’s Segment Anything Model
 
----
 
 ### **Week 3: LLMs for Mapping and Geospatial Reasoning**
 
@@ -106,7 +103,6 @@ This week turns to natural language as a mode of spatial analysis. Students expl
 * Lab 5: Prompt-to-Map – Generating Annotated Maps with LLMs
 * Lab 6: Geocoding and Reverse-Geocoding Using ChatGPT
 
----
 
 ### **Week 4: Critical Reflections on GeoAI: Hallucinations, Bias, and Sustainability**
 
@@ -131,14 +127,19 @@ We conclude by examining the sociotechnical risks of GeoAI. Students critically 
 * Lab 7: Diagnosing Hallucinations and Bias in LLM-based Spatial Analysis
 * Lab 8: LangChain for Spatial Reasoning and Prompt Chaining
 
+---
 
-## :bell: Detailed Requirement
+##  💻 Computational skill
 
-**:computer:  Computational skill:** This course welcomes students who some computational experience, or have programmed in a python or javascript IDE (Integrated Development Environment). Students should at least hear of GIS, GitHub, Leaflet, web crawler, or Raspberry Pi before considering this seminar, and most importantly, be self-motivated to solve a research question with the listed computational skills.
+This course welcomes students who some computational experience, or have programmed in a python or javascript IDE (Integrated Development Environment). Students should at least hear of GIS, GitHub, Leaflet, web crawler, or Raspberry Pi before considering this seminar, and most importantly, be self-motivated to solve a research question with the listed computational skills.
 
-**:rocket: GitHub:** This course material will be hosted on GitHub instead of UW Canvas. On this dedicated GitHub repository for this course, you can find most of the course material, participate in group discussions by submitting GitHub issues, and creating new GitHub repositories to turn in practical exercise deliverables. By the end of this quarter, you will be more proficient in operating a cloud-based coding environment and able to host your work online as a way to gain public and peer attentions.
+## 🚀 GitHub
 
-**:woman_scientist: Thinkpiece:** Your weekly think pieces should be at least 350 words in length and should engage critically with **3 or more of the week’s readings**. There is no right or wrong way to write a think piece and you should feel free to experiment, but ensure that you are citing your sources and that your piece is clear and free of any typos. Below are some additional suggestions/guiding thoughts to help shape your piece.
+This course material will be hosted on GitHub instead of UW Canvas. On this dedicated GitHub repository for this course, you can find most of the course material, participate in group discussions by submitting GitHub issues, and creating new GitHub repositories to turn in practical exercise deliverables. By the end of this quarter, you will be more proficient in operating a cloud-based coding environment and able to host your work online as a way to gain public and peer attentions.
+
+## 👩‍🔬 Reading Reflection
+
+Your weekly think pieces should be at least 350 words in length and should engage critically with the week’s readings**. There is no right or wrong way to write a think piece and you should feel free to experiment, but ensure that you are citing your sources and that your piece is clear and free of any typos. Below are some additional suggestions/guiding thoughts to help shape your piece.
 
 - Though your think piece doesn’t need to follow a formal essay structure, organization, content, and clarity is still important.
 - Don’t merely summarize. Develop your own thoughts and reflections in connection to the readings, the lab assignments and the weekly lecture.
