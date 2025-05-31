@@ -6,6 +6,8 @@
 
 <img src="res/geoai.png" align="right" width="20%" target="_blank" /> This course explores the emerging field of Geospatial Artificial Intelligence (GeoAI), focusing on the integration of machine learning, deep learning, and large language models (LLMs) in the context of geographic data. Students will engage both technically and critically with the tools and concepts shaping the future of spatial analysis. This summer intensive course emphasizes hands-on lab experimentation, paper-driven discussions, and critical reflection on the social and epistemological implications of AI-powered geospatial technologies.
 
+There are no formal lectures or slides in this course; instead, the class is reading- and lab-driven. Each week begins with a discussion of the assigned readings, where students are encouraged to engage with the texts by bringing in real-world examples and critical questions. Lab sessions are guided but self-directed, creating space for open experimentation, collaborative problem-solving, and reflective analysis.
+
 ## 🧭 Course Objectives
 
 * **Understand** the technical foundations and workflows of GeoAI, including machine learning, deep learning, and LLMs.
@@ -129,59 +131,12 @@ We conclude by examining the sociotechnical risks of GeoAI. Students critically 
 * Lab 7: Diagnosing Hallucinations and Bias in LLM-based Spatial Analysis
 * Lab 8: LangChain for Spatial Reasoning and Prompt Chaining
 
----
 
-## 📊 Evaluation
-
-| Component               | Weight |
-| ----------------------- | ------ |
-| Lab Assignments (8)     | 40%    |
-| Final Essay             | 25%    |
-| Reading Reflections (4) | 15%    |
-| Quizzes (2)             | 10%    |
-| Participation           | 10%    |
-
----
-
-
-## 🧑‍🏫 Seminar Format
-
-* No formal lectures or slides; this course is **reading- and lab-driven**.
-* Each week begins with discussion of the assigned readings. Students will be encouraged to bring in real-world examples and questions.
-* Labs are guided but self-driven, allowing space for open experimentation, debugging, and critical analysis.
-
----
-
-## ✍️ Final Essay
-
-**Due**: End of Week 4
-**Length**: 1500–2000 words
-**Prompt**: Choose a topic related to the course (e.g., LLM hallucinations in spatial data, critical evaluation of GeoAI in disaster response, environmental impact of AI models). Your essay must incorporate at least two technical sources and two critical sources from the course or your own research.
-
----
-
-## 🧾 Logistics and Accommodations
-
-This course follows the equity, accessibility, and student care policies of the University of Washington. Please reach out early for:
-
-* **Disability accommodations**
-* **Religious observance needs**
-* **Mental health or student care resources** (e.g. SafeCampus, LiveWell)
-
-
-## :bell: Course Requirement
+## :bell: Detailed Requirement
 
 **:computer:  Computational skill:** This course welcomes students who some computational experience, or have programmed in a python or javascript IDE (Integrated Development Environment). Students should at least hear of GIS, GitHub, Leaflet, web crawler, or Raspberry Pi before considering this seminar, and most importantly, be self-motivated to solve a research question with the listed computational skills.
 
-**:scroll: Statement of intent:** Please prepare a short statement of intent describing your project on or before the end of **Week 1.** Please feel free to plan your writing project to help advance progress in your own work – qualifying exam essay, draft of journal article, side project, etc. I am happy to meet with you to talk more about your writing project.
-
 **:rocket: GitHub:** This course material will be hosted on GitHub instead of UW Canvas. On this dedicated GitHub repository for this course, you can find most of the course material, participate in group discussions by submitting GitHub issues, and creating new GitHub repositories to turn in practical exercise deliverables. By the end of this quarter, you will be more proficient in operating a cloud-based coding environment and able to host your work online as a way to gain public and peer attentions.
-
-**:teacher: Seminar leadership:** You will take at least two turns facilitating our seminar exercise and discussion with a few of your classmates. You will work with one or more others (depending on the enrollment) on this, so you are not responsible for the entire session yourself. Please work together to prepare some activities and guiding questions that will inspire and structure our discussion of the material. The instructor is happy to help you to prepare the practical exercise walk-through before the meeting class.
-
-**:trophy: Practical exercise:** You need to get familiar with the practical exercise instruction before the class meeting in order to better reflect upon the theoretical concepts. We will walk through each practical exercise in class, and you will submit the deliverables to GitHub several days before the class meeting. **As a requirement, you need to submit two practical exercise deliverables. One is Practical Exercise 1, and the other is a lab of your interest.**
-
-**:woman_technologist: Participation in seminar discussion:** Complete all assigned readings and get familiar with the practical exercise instructions before class meetings, and participating in critical discussions of those readings.
 
 **:woman_scientist: Thinkpiece:** Your weekly think pieces should be at least 350 words in length and should engage critically with **3 or more of the week’s readings**. There is no right or wrong way to write a think piece and you should feel free to experiment, but ensure that you are citing your sources and that your piece is clear and free of any typos. Below are some additional suggestions/guiding thoughts to help shape your piece.
 
@@ -192,13 +147,23 @@ This course follows the equity, accessibility, and student care policies of the 
 - Use the practical exercise to express more than how you “feel” about the text or problem. Whether you liked the text or not is relevant but should not be the central focus of your think piece.
 - Make connections between the assigned text and the course content and above all, explore your own ideas and thoughts about the assigned text; after all, that is the point of the assignment.
 
-Please craft your think piece to the [**GitHub issues page**](https://github.com/jakobzhao/geog521/issues) two days before the meeting – so your colleagues leading discussion can draw on your ideas in planning activities for our class session.
 
-**:open_book: Writing project:** During the quarter, you will complete a larger writing project that engages with the seminar material and course themes, along with additional readings that you bring into conversation with the assigned course readings. You are aiming for 15-20 pages coalescing around ideas and readings from this quarter – you can take up and extend one of the themes from our weekly structure or develop a new one relevant to your own work and thinking. Writing projects is due no later than the end of **Week 10**.
+## ✍️ Final Essay
 
-## :heavy_check_mark: Grading
+**Due**: End of Week 4
+**Length**: 1500–2000 words
+**Prompt**: Choose a topic related to the course (e.g., LLM hallucinations in spatial data, critical evaluation of GeoAI in disaster response, environmental impact of AI models). Your essay must incorporate at least two technical sources and two critical sources from the course or your own research.
 
-Based on the above requirements - **40%** seminar participation, think pieces, and discussion leadership, **20%** practical exercise, **40%** writing project.
+
+## 📊 Evaluation
+
+| Component               | Weight |
+| ----------------------- | ------ |
+| Lab Assignments (8)     | 40%    |
+| Final Essay             | 25%    |
+| Reading Reflections (4) | 25%    |
+| Quizzes (2)             | 10%    |
+
 
 ## :notebook_with_decorative_cover: Equity & Inclusivity
 
