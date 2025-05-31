@@ -79,8 +79,8 @@ This week turns to natural language as a mode of spatial analysis. Students expl
 
 **Labs**
 
-* Lab 5: Prompt-to-Map – Generating Annotated Maps with LLMs
-* Lab 6: Geocoding and Reverse-Geocoding Using ChatGPT
+* Lab 5: Prompt-to-Map – Generating Annotated Interactive Thematic Maps with LLMs
+* Lab 6: Natural Language Geocoding – Converting Text to Spatial Data with ChatGPT
 
 
 ### **Week 4: Critical Reflections on GeoAI: Hallucinations, Bias, and Sustainability**
@@ -93,13 +93,14 @@ We conclude by examining the sociotechnical risks of GeoAI. Students critically 
 1. Li et al. (2023). *Making AI less “thirsty”*. arXiv.
 2. He et al. (2023). *LLM4GIS: Benchmarking and diagnosing LLMs for spatial tasks*. arXiv.
 3. Warf (2025). *Post-Truth GIS*. Transactions in GIS.
+4. Gurnee, W., & Tegmark, M. (2023). Language models represent space and time. arXiv preprint arXiv:2310.02207.
 
 </details>
 
 **Labs**
 
-* Lab 7: Diagnosing Hallucinations and Bias in LLM-based Spatial Analysis
-* Lab 8: LangChain for Spatial Reasoning and Prompt Chaining
+* Lab 7: Diagnosing Hallucinations in LLM-based Spatial Analysis
+* Lab 8: Bias in Spatial Data: A Case Study with OpenStreetMap
 
 ---
 
