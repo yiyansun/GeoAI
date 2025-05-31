@@ -4,7 +4,7 @@
 - **Meeting Time:** Asynchrounous 
 - **Office Hours:** By appointment or request a zoom meeting via https://t.ly/kpj_t
 
-<img src="res/geoai.png" align="right" width="35%" target="_blank" /> This course explores the emerging field of Geospatial Artificial Intelligence (GeoAI), focusing on the integration of machine learning, deep learning, and large language models (LLMs) in the context of geographic data. Students will engage both technically and critically with the tools and concepts shaping the future of spatial analysis. This summer intensive course emphasizes hands-on lab experimentation, paper-driven discussions, and critical reflection on the social and epistemological implications of AI-powered geospatial technologies.
+<img src="res/geoai.png" align="right" width="25%" target="_blank" /> This course explores the emerging field of Geospatial Artificial Intelligence (GeoAI), focusing on the integration of machine learning, deep learning, and large language models (LLMs) in the context of geographic data. Students will engage both technically and critically with the tools and concepts shaping the future of spatial analysis. This summer intensive course emphasizes hands-on lab experimentation, paper-driven discussions, and critical reflection on the social and epistemological implications of AI-powered geospatial technologies.
 
 ## 🧭 Course Objectives
 
