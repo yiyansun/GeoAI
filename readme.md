@@ -158,4 +158,6 @@ This course advocates for the open culture. The course materials are open source
 
 > This web page is the syllabus - There is no printed version, please refer here instead. Make sure refer to this page as often as possible. Also, Feel free to ask the instructor for clarifications whenever needed.
 
+> The development of this course was inspired and supported by many generous colleagues and students. I would like to thank Professor Yingjie Hu (University at Buffalo), Professor Lei Zou (Texas A&M University), and Professor Yue Lin (University of Illinois Urbana-Champaign) for their valuable insights. I’m also grateful to several students who contributed to early explorations with Celibus and the initial shape of this course during Summer 2024.
+
 `© 2019-2025 All rights are reserved by Bo Zhao.`
