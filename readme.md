@@ -96,9 +96,7 @@ We conclude by examining the sociotechnical risks of GeoAI. Students critically 
 
 </details>
 
-Lab 7: Diagnosing Hallucinations in LLM-based Spatial Analysis
-
-Lab 8: Bias in Spatial Data: A Case Study with OpenStreetMap
+Lab 7: Diagnosing Hallucinations and Bias in LLM-based Spatial Analysis
 
 ---
 
