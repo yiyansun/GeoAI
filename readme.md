@@ -49,7 +49,7 @@ This week introduces deep learning architectures for interpreting raster imagery
 <details>
 <summary><b>Readings</b></summary>
 
-1. Zhao et al. (2021). *Deep Fake Geography? When geospatial data encounters AI*. Cartography and GIS.
+1. Zhao, B., Zhang, S., Xu, C., Sun, Y., & Deng, C. (2021). Deep fake geography? When geospatial data encounter Artificial Intelligence. Cartography and Geographic Information Science, 48(4), 338-352.
 
 
 > one reading that focuses on the technical aspects of deep learning, such as a chapter from a deep learning textbook or a relevant research paper
