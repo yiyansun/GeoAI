@@ -51,7 +51,6 @@ This week introduces deep learning architectures for interpreting raster imagery
 
 1. Zhao, B., Zhang, S., Xu, C., Sun, Y., & Deng, C. (2021). Deep fake geography? When geospatial data encounter Artificial Intelligence. Cartography and Geographic Information Science, 48(4), 338-352.
 
-
 > one reading that focuses on the technical aspects of deep learning, such as a chapter from a deep learning textbook or a relevant research paper
 > notes: Bolei Zhou: place recognition, image classification, and segmentation using CNNs
 > 2. Li & Ning (2023). *Autonomous GIS: The next-generation AI-powered GIS*. IJDE.
