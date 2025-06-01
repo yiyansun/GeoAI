@@ -4,27 +4,27 @@
 - **Meeting Time:** Asynchronous 
 - **Office Hours:** By appointment or request a zoom meeting via https://t.ly/kpj_t
 
-<img src="res/geoai.png" align="right" width="20%" target="_blank" /> This course explores the emerging field of Geospatial Artificial Intelligence (GeoAI), focusing on the integration of machine learning, deep learning, and large language models (LLMs) in the context of geographic data. Students will engage both technically and critically with the tools and concepts shaping the future of spatial analysis. This summer intensive course emphasizes hands-on lab experimentation, paper-driven discussions, and critical reflection on the social and epistemological implications of AI-powered geospatial technologies.
+<img src="res/geoai.png" align="right" width="20%" target="_blank" /> This course explores the emerging field of Geospatial Artificial Intelligence (GeoAI), focusing on the integration of machine learning, deep learning, and large language models (LLMs) in the context of geographic data. Students will engage both technically and critically with the tools and concepts shaping the future of spatial and placial analysis. This crush course emphasizes hands-on lab experimentation, paper-driven learning, and critical reflection on the social and epistemological implications of AI-powered geospatial technologies.
 
-There are no formal lectures or slides in this course; instead, the class is reading- and lab-driven. Each week begins with a discussion of the assigned readings, where students are encouraged to engage with the texts by bringing in real-world examples and critical questions. Lab sessions are guided but self-directed, creating space for open experimentation, collaborative problem-solving, and reflective analysis.
+The class is reading- and lab-driven. Each week begins with a selection of the assigned readings, where students are encouraged to engage with the texts by bringing in real-world examples and critical questions. Lab sessions are guided but self-directed, creating space for open experimentation, problem-solving, and reflective analysis.
 
 ## 🧭 Course Objectives
 
 * **Understand** the technical foundations and workflows of GeoAI, including machine learning, deep learning, and LLMs.
-* **Apply** open-source tools (Python, Google Colab, ChatGPT API, LangChain) to analyze spatial data.
+* **Apply** open-source tools (Google Colab, GEMINI, ChatGPT API, LangChain) to analyze spatial data.
 * **Critically evaluate** the societal, ethical, and epistemological dimensions of AI in geography.
-* **Engage with** current academic literature through weekly readings and reflections.
-* **Produce** an independent final essay demonstrating synthesis of technical and critical insight.
+* **Engage with** latest academic literature through weekly readings and reflections.
+* **Produce** an independent final essay demonstrating synthesis of technical and critical insights.
 
 ---
 
 ## 📚 Weekly Schedule
 
-Each week includes ~3 readings, 2 lab sessions (Google Colab) and one piece of reading reflection.
+Each week includes ~3 readings, 2 lab sessions and one piece of reading reflection.
 
 ### **Week 1: Introduction & Machine Learning for Spatial Data**
 
-We begin with an overview of AI’s evolution and its intersections with geographic thought. Students are introduced to foundational machine learning techniques applied to spatial data using Python and Google Colab. This week sets the tone for the course by situating GeoAI within both technical and critical frameworks.
+We begin with an overview of AI’s evolution and its intersections with geographic thought. Students are introduced to foundational machine learning techniques applied to spatial data using Google Colab. This week sets the tone for the course by situating GeoAI within both technical and critical frameworks.
 
 <details>
 <summary><b>Readings</b></summary>
@@ -99,7 +99,7 @@ Lab 8: Bias in Spatial Data: A Case Study with OpenStreetMap
 
 ###  💻 Computational skill
 
-This course welcomes students who some computational experience, or have programmed in a python or javascript IDE (Integrated Development Environment). Students should at least hear of GIS, GitHub, Leaflet, web crawler, or Raspberry Pi before considering this seminar, and most importantly, be self-motivated to solve a research question with the listed computational skills.
+This course welcomes students who some computational experience, or have programmed in a python or javascript IDE (Integrated Development Environment), especially Google CoLab. Students should at least hear of GIS, GitHub, Leaflet, web crawler, or Raspberry Pi before considering this course, and most importantly, be self-motivated to solve a research question with the listed computational skills.
 
 ### 🚀 GitHub
 
@@ -107,7 +107,7 @@ This course material will be hosted on GitHub instead of UW Canvas. On this dedi
 
 ### 🧾 Quizzes
 
-There will be two short quizzes administered during the course to assess students’ foundational understanding of key technical concepts. These quizzes are designed to reinforce core material covered in lectures, readings, and lab work—such as machine learning workflows, deep learning architectures, spatial data structures, and the capabilities and limitations of large language models in geospatial contexts. The quizzes will be open-note but time-limited, and may include a mix of multiple choice, short answer, and code interpretation questions. While they are not meant to be high-stakes, the quizzes serve as checkpoints to help students consolidate knowledge and ensure readiness for more advanced lab applications.
+There will be two short quizzes administered during the course to assess students’ foundational understanding of key technical concepts. These quizzes are designed to reinforce core material covered in lectures, readings, and lab work—such as machine learning workflows, deep learning architectures, spatial data structures, and the capabilities and limitations of large language models in geospatial contexts. The quizzes will be open-note, unlimited time, and may include a mix of multiple choice, short answer, and code interpretation questions. While they are not meant to be high-stakes, the quizzes serve as checkpoints to help students consolidate knowledge and ensure readiness for more advanced lab applications.
 
 ### 🧪 Lab Exercises
 
@@ -118,10 +118,10 @@ Students are required to complete eight hands-on lab assignments over the course
 Your weekly think pieces should be at least 350 words in length and should engage critically with the week’s readings**. There is no right or wrong way to write a think piece and you should feel free to experiment, but ensure that you are citing your sources and that your piece is clear and free of any typos. Below are some additional suggestions/guiding thoughts to help shape your piece.
 
 - Though your think piece doesn’t need to follow a formal essay structure, organization, content, and clarity is still important.
-- Don’t merely summarize. Develop your own thoughts and reflections in connection to the readings, the lab assignments and the weekly lecture.
+- Don’t merely summarize. Develop your own thoughts and reflections in connection to the readings and the lab assignments.
 - Lead your reader somewhere beyond the simple observation; in other words, make a point or several points and examine them in depth.
 - Use examples and quotations from the assigned text to support what you say. Effective quotations make the piece stronger and more convincing.
-- Use the practical exercise to express more than how you “feel” about the text or problem. Whether you liked the text or not is relevant but should not be the central focus of your think piece.
+- Use this assignment to express more than how you “feel” about the text or problem. Whether you liked the text or not is relevant but should not be the central focus of your think piece.
 - Make connections between the assigned text and the course content and above all, explore your own ideas and thoughts about the assigned text; after all, that is the point of the assignment.
 
 ### ✍️ Final Essay
