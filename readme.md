@@ -29,9 +29,12 @@ We begin with an overview of AI’s evolution and its intersections with geograp
 <details>
 <summary><b>Readings</b></summary>
 
-1. Li et al. (2024). *GeoAI for science and the science of GeoAI*. JOSIS.
-2. GeoAI: Machine Learning and Deep Learning with GIS – [GeoWGS84.com](https://www.geowgs84.com/post/geoai-machine-learning-and-deep-learning-with-gis)
-3. Janowicz et al. (2022). *GeoAI, counter-AI, and human geography: A conversation*. Dialogues in Human Geography.
+1. Li, W., Arundel, S. T., Gao, S., Goodchild, M. F., Hu, Y., Wang, S., & Zipf, A. (2024). GeoAI for science and the science of GeoAI. Journal of Spatial Information Science, (29), 1–25.
+2. Janowicz, K., Sieber, R., & Crampton, J. (2022). GeoAI, counter-AI, and human geography: A conversation. Dialogues in Human Geography, 12(3), 446-458.
+3. GeoAI: Machine Learning and Deep Learning with GIS – [GeoWGS84.com](https://www.geowgs84.com/post/geoai-machine-learning-and-deep-learning-with-gis)
+
+> I need to add a reading that focuses on the technical aspects of machine learning, such as a chapter from a machine learning textbook or a relevant research paper
+> 4. Burkov, A. (2019). The hundred-page machine learning book. Andriy Burkov. https://themlbook.com
 
 </details>
 
@@ -46,9 +49,13 @@ This week introduces deep learning architectures for interpreting raster imagery
 <details>
 <summary><b>Readings</b></summary>
 
-1. TorchGeo documentation & tutorial (Microsoft, 2023)
-2. Li & Ning (2023). *Autonomous GIS: The next-generation AI-powered GIS*. IJDE.
-3. Zhao et al. (2021). *Deep Fake Geography? When geospatial data encounters AI*. Cartography and GIS.
+1. Zhao et al. (2021). *Deep Fake Geography? When geospatial data encounters AI*. Cartography and GIS.
+
+
+> one reading that focuses on the technical aspects of deep learning, such as a chapter from a deep learning textbook or a relevant research paper
+> notes: Bolei Zhou: place recognition, image classification, and segmentation using CNNs
+> 2. Li & Ning (2023). *Autonomous GIS: The next-generation AI-powered GIS*. IJDE.
+> 1. TorchGeo documentation & tutorial (Microsoft, 2023)
 
 </details>
 
@@ -64,10 +71,12 @@ This week turns to natural language as a mode of spatial analysis. Students expl
 <details>
 <summary><b>Readings</b></summary>
 
-1. Peng & Zhao (2024). *Navigating the ethical landscape behind ChatGPT*. Big Data & Society.
-2. GeoLLM: Extracting Geospatial Knowledge from Large Language Models – [arXiv](https://arxiv.org/abs/2310.06213)
-3. Gillespie (2024). *Generative AI and the politics of visibility*. Big Data & Society.
+1. Manvi, R., Khanna, S., Mai, G., Burke, M., Lobell, D., & Ermon, S. (2023). GeoLLM: Extracting geospatial knowledge from large language models. arXiv preprint arXiv:2310.06213. https://arxiv.org/abs/2310.06213
+2. Peng & Zhao (2024). *Navigating the ethical landscape behind ChatGPT*. Big Data & Society.
 
+> one reading that focuses on the technical aspects of LLMs, such as a chapter from a machine learning textbook or a relevant research paper 
+> 3. OpenAI (2023). *ChatGPT: A large language model for conversational AI*. https://openai.com/research/chatgpt
+> 4. OpenAI (2023). *ChatGPT API documentation*. https://platform.openai.com/docs/api-reference/chat/create
 </details>
 
 Lab 5: Prompt-to-Map – Generating Annotated Interactive Thematic Maps with LLMs
@@ -82,10 +91,9 @@ We conclude by examining the sociotechnical risks of GeoAI. Students critically 
 <details>
 <summary><b>Readings</b></summary>
 
-1. Li et al. (2023). *Making AI less “thirsty”*. arXiv.
-2. He et al. (2023). *LLM4GIS: Benchmarking and diagnosing LLMs for spatial tasks*. arXiv.
-3. Warf (2025). *Post-Truth GIS*. Transactions in GIS.
-4. Gurnee, W., & Tegmark, M. (2023). Language models represent space and time. arXiv preprint arXiv:2310.02207.
+1. Gurnee, W., & Tegmark, M. (2023). Language models represent space and time. arXiv preprint arXiv:2310.02207.
+2. Li, P., Yang, J., Islam, M. A., & Ren, S. (2023). Making ai less" thirsty": Uncovering and addressing the secret water footprint of ai models. arXiv preprint arXiv:2304.03271.
+3. Gillespie (2024). *Generative AI and the politics of visibility*. Big Data & Society.
 
 </details>
 
