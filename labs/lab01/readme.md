@@ -16,8 +16,7 @@ You will:
 
 > **Guiding question:** How can machine learning reveal (or reinforce) spatial inequality in housing markets?
 
-Click this button to launch the full lab on Colab:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakobzhao/geog428/blob/main/labs/lab01/predicting_boston_housing_prices.ipynb)
+Click this button to launch the full lab on Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakobzhao/geog428/blob/main/labs/lab01/predicting_boston_housing_prices.ipynb)
 
 ---
 ### 🧪 Coding Experiments：
