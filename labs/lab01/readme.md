@@ -19,7 +19,7 @@ You will:
 Click this button to launch the full lab on Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakobzhao/geog428/blob/main/labs/lab01/predicting_boston_housing_prices.ipynb)
 
 ---
-### 🧪 Coding Experiments：
+### Coding Experiments：
 
 Try one of the following in your notebook:
 
@@ -29,7 +29,7 @@ Try one of the following in your notebook:
 
 ---
 
-### 📌 Written Reflection:
+### Written Reflection:
 
 At the end of your lab, please answer **at least two** of the following questions (300–500 words total):
 
