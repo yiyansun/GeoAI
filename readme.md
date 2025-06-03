@@ -38,7 +38,7 @@ We begin with an overview of AI’s evolution and its intersections with geograp
 
 </details>
 
-Lab 1: Predicting Housing Prices Using Random Forests
+Lab 1: [Predicting Boston Housing Prices Using Machine Learning](labs/lab01/)
 
 Lab 2: Downscaling Land Surface Temperature Data Using Random Forests
 
