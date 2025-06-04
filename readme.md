@@ -16,6 +16,7 @@ The class is reading- and lab-driven. Each week begins with a selection of the a
 * **Engage with** latest academic literature through weekly readings and reflections.
 * **Produce** an independent final essay demonstrating synthesis of technical and critical insights.
 
+> This web page is the syllabus - There is no printed version, please refer here instead. Make sure refer to this page as often as possible. Also, Feel free to ask the instructor for clarifications whenever needed.
 ---
 
 ## 📚 Weekly Schedule
@@ -157,12 +158,10 @@ Washington state law requires that UW develop a policy for accommodation of stud
 
 ## :memo:  Student Care & Safety
 
-<a href="https://hgis.uw.edu"><img src="res/logo.png" align="right" width="200px" target="_blank" /></a> It is important that you take care of yourselves inside and outside of class as you work through stress and other obstacles. There are many different support services on campus that can help, such as the Counseling Center, Hall Health, and the IMA. UW’s Student Care program can help you connect to these and other resources. Learn more an contact them directly: http://depts.washington.edu/livewell/student-care/, livewell@uw.edu, or 206.543.6085. If you are concerned about yourself or a friend who is struggling SafeCampus is a helpful resource. Please add 206.685.7233 to your phones
+It is important that you take care of yourselves inside and outside of class as you work through stress and other obstacles. There are many different support services on campus that can help, such as the Counseling Center, Hall Health, and the IMA. UW’s Student Care program can help you connect to these and other resources. Learn more an contact them directly: http://depts.washington.edu/livewell/student-care/, livewell@uw.edu, or 206.543.6085. If you are concerned about yourself or a friend who is struggling SafeCampus is a helpful resource. Please add 206.685.7233 to your phones
 
-This course advocates for the open culture. The course materials are open source for both students and open source community to access.
+## :book: Acknowledgement
 
-> This web page is the syllabus - There is no printed version, please refer here instead. Make sure refer to this page as often as possible. Also, Feel free to ask the instructor for clarifications whenever needed.
+<a href="https://hgis.uw.edu"><img src="res/logo.png" align="right" width="200px" target="_blank" /></a> This course advocates for the open culture. The course materials are open source for both students and open source community to access. The development of this course was inspired and supported by many generous colleagues and students. I would like to thank Professor Yingjie Hu (University at Buffalo), Professor Lei Zou (Texas A&M University), and Professor Yue Lin (University of Illinois Urbana-Champaign) for their valuable insights. I’m also grateful to Yifan Yang, Haowen Wei, and Haowei Tong who contributed to early explorations with Syllabus and the initial shape of this course during Summer 2024.
 
-> The development of this course was inspired and supported by many generous colleagues and students. I would like to thank Professor Yingjie Hu (University at Buffalo), Professor Lei Zou (Texas A&M University), and Professor Yue Lin (University of Illinois Urbana-Champaign) for their valuable insights. I’m also grateful to several students who contributed to early explorations with Celibus and the initial shape of this course during Summer 2024.
-
-`© 2019-2025 All rights are reserved by Bo Zhao.`
+`© 2019-2025 All rights are reserved by [Bo Zhao](zhaobo@uw.edu).`
