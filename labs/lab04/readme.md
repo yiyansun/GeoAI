@@ -8,7 +8,7 @@ The project not only builds technical fluency with foundational AI tools in geog
 
 You will:
 
-- Select or define a **Region of Interest (ROI)** using `leafmap` or [geojson.io](https://geojson.io)  
+- Select or define a **Region of Interest (ROI)** using [geojson.io](https://geojson.io)  
 - Download high-resolution **aerial imagery tiles** as a georeferenced GeoTIFF  
 - Apply **Segment Anything Model (SAM)** to segment vegetation features using bounding box prompts  
 - Convert the resulting raster mask into **vector GeoJSON** outputs  
