@@ -18,7 +18,6 @@ You will:
 
 Click this button to launch the full lab on Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakobzhao/geog428/blob/main/labs/lab01/predicting_boston_housing_prices.ipynb)
 
----
 ### Coding Experiments：
 
 Try one of the following in your notebook:
@@ -27,7 +26,6 @@ Try one of the following in your notebook:
 * Remove a sensitive variable like CRIM or B. How does the model respond?
 * Segment model error by price bracket (low, medium, high). What patterns emerge?
 
----
 
 ### Written Reflection:
 
@@ -38,7 +36,6 @@ At the end of your lab, please answer **at least two** of the following question
 3. How well does your model generalize across price ranges or neighborhoods?
 4. What would an “equitable” housing model look like? What would it measure?
 
----
 
 ## ✅ Deliverables
 
