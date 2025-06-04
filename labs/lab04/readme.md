@@ -19,7 +19,7 @@ You will:
 
 Click this button to launch the full lab on Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your_org_here/your_lab_notebook_here.ipynb)
 
-## Coding Experiments
+### Coding Experiments
 
 Try one or more of the following:
 
@@ -28,7 +28,7 @@ Try one or more of the following:
 - Change the `min_size` parameter in `region_groups()` and observe how the output polygon features change  
 - Overlay outputs with external GIS layers such as land use or zoning data
 
-## Written Reflection (choose two, 300–500 words total)
+### Written Reflection (choose two, 300–500 words total)
 
 1. What kinds of geographic features did SAM identify most successfully in your region? Where did it fail?
 2. How does the use of bounding boxes influence the segmentation results? Who defines the prompt?
