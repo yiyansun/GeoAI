@@ -20,8 +20,6 @@ You will:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your_org_here/your_lab_notebook_here.ipynb)
 
----
-
 ## 🧪 Coding Experiments
 
 Try one or more of the following:
@@ -31,8 +29,6 @@ Try one or more of the following:
 - Change the `min_size` parameter in `region_groups()` and observe how the output polygon features change  
 - Overlay outputs with external GIS layers such as land use or zoning data
 
----
-
 ## 🧠 Written Reflection (choose two, 300–500 words total)
 
 1. What kinds of geographic features did SAM identify most successfully in your region? Where did it fail?
@@ -40,7 +36,6 @@ Try one or more of the following:
 3. What new opportunities or risks do AI-based tools like SAM introduce for geographic research or public mapping?
 4. What limits did you observe when trying to apply this method to other types of land cover or imagery?
 
----
 
 ## ✅ Deliverables
 
