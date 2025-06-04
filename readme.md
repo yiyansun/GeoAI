@@ -164,4 +164,4 @@ It is important that you take care of yourselves inside and outside of class as 
 
 <a href="https://hgis.uw.edu"><img src="res/logo.png" align="right" width="200px" target="_blank" /></a> This course advocates for the open culture. The course materials are open source for both students and open source community to access. The development of this course was inspired and supported by many generous colleagues and students. I would like to thank Professor Yingjie Hu (University at Buffalo), Professor Lei Zou (Texas A&M University), and Professor Yue Lin (University of Illinois Urbana-Champaign) for their valuable insights. I’m also grateful to Yifan Yang, Haowen Wei, and Haowei Tong who contributed to early explorations with Syllabus and the initial shape of this course during Summer 2024.
 
-`© 2019-2025 All rights are reserved by [Bo Zhao](mailto:zhaobo@uw.edu).`
+`© 2019-2025 All rights are reserved by Bo Zhao.`
