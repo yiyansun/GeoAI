@@ -85,7 +85,7 @@ Lab 5: Prompt-to-Map – Generating Annotated Interactive Thematic Maps with LLM
 Lab 6: Natural Language Geocoding – Converting Text to Spatial Data with ChatGPT
 
 
-### **Week 4: Critical Reflections on GeoAI: Hallucinations, Bias, and Sustainability**
+### **Week 4: Hallucinations, Bias, and Sustainability**
 
 We conclude by examining the sociotechnical risks of GeoAI. Students critically assess hallucinations, embedded bias, and environmental impacts of AI. The week culminates in an exploratory lab and final reflection.
 
