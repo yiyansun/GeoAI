@@ -1,7 +1,6 @@
 # Geospatial Segmentation with SAM — Deep Learning for Feature Detection
 
-**Author:** Bo Zhao, [zhaobo@uw.edu](mailto:zhaobo@uw.edu)  
-**Points Available:** 50
+**Author:** Bo Zhao, [zhaobo@uw.edu](mailto:zhaobo@uw.edu); **Points Available** = 50
 
 This lab introduces students to a geospatial deep learning pipeline using the **Segment Anything Model (SAM)** developed by Meta AI. Students will learn to apply SAM to high-resolution satellite imagery, perform feature segmentation using bounding box prompts, and export both raster and vector results for geospatial analysis.
 
@@ -46,4 +45,4 @@ Your submission must include **two parts**:
 
 Please export both parts into a **PDF** or **Word document** and upload to **Canvas**.
 
-> **Note:** Late submissions will lose 10% per day unless prior arrangements are made for documented reasons (e.g., medical, religious, academic). Please contact the instructor if accommodations are needed.
+> **Note:** Lab assignments must be submitted electronically to Canvas by the due date. Late submissions will incur a 10% penalty per day unless prior notice is given for valid reasons such as illness, academic conflicts, or personal emergencies. Flexibility is possible with timely communication, but make-up exams or extensions will only be granted in documented, exceptional cases.
