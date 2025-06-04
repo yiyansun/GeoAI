@@ -60,7 +60,7 @@ This week introduces deep learning architectures for interpreting raster imagery
 
 Lab 3: Detecting Zebra Crossings in Aerial Images (using CNN + image scraping workflow)
 
-Lab 4: Tree Canopy Segmentation Using Meta’s Segment Anything Model
+Lab 4: [Geospatial Segmentation with SAM — Deep Learning for Feature Detection](labs/lab04/)
 
 
 ### **Week 3: LLMs for Mapping and Geospatial Reasoning**
