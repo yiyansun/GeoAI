@@ -43,7 +43,7 @@ Lab 1: [Predicting Boston Housing Prices Using Machine Learning](labs/lab01/)
 
 Lab 2: Downscaling Land Surface Temperature Data Using Random Forests
 
-### **Week 2: Deep Learning and Remote Sensing**
+### **Week 2: Place, Space and Deep Learning**
 
 This week introduces deep learning architectures for interpreting raster imagery, focusing on CNNs for classification and segmentation. Students also critically reflect on the politics of computer vision, data labeling, and representation in spatial AI.
 
