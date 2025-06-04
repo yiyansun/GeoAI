@@ -41,7 +41,7 @@ We begin with an overview of AI’s evolution and its intersections with geograp
 
 Lab 1: [Predicting Boston Housing Prices Using Machine Learning](labs/lab01/)
 
-Lab 2: Downscaling Land Surface Temperature Data Using Random Forests
+Lab 2: [Downscaling Land Surface Temperature Data of Seattle Using Random Forests](labs/lab02)
 
 ### **Week 2: Place, Space and Deep Learning**
 
