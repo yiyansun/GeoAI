@@ -1,4 +1,4 @@
-# 🌱 Geospatial Segmentation with SAM — Lab Instruction
+# Geospatial Segmentation with SAM — Deep Learning for Feature Detection
 
 **Author:** Bo Zhao, [zhaobo@uw.edu](mailto:zhaobo@uw.edu)  
 **Points Available:** 50
