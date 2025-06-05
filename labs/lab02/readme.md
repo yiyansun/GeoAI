@@ -18,7 +18,7 @@ You will:
 
 > **Guiding Question:** How does the choice of input features—spectral, index-based, or geographic—change our ability to model and interpret urban heat?
 
-Click this button to launch the full lab on Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakobzhao/geog428/blob/main/labs/lab02/Seattle_LST_Downscaling_with_RF.ipynb)
+Click this button to launch the full lab on Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Y7wHJ9UGL9OiVIypfvudU1M_duXSnZCz)
 
 ### Coding Experiments:
 
