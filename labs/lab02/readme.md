@@ -1,30 +1,24 @@
-# Downscaling Land Surface Temperature in Seattle: Exploring Urban Heat and Modeling Strategies
+# Downscaling Land Surface Temperature Data of Seattle Using Random Forests
 
 **Author:** Bo Zhao, [zhaobo@uw.edu](mailto:zhaobo@uw.edu); **Points Available** = 50
 
 This lab introduces students to a progressive modeling workflow for **downscaling coarse-resolution land surface temperature (LST)** to finer spatial scales in the Seattle metropolitan area using satellite data and machine learning.  
 By using **Google Earth Engine**, **Sentinel-2 imagery**, and **Landsat 8 LST products**, students will explore how vegetation, built-up surfaces, and geographic context influence urban heat patterns.
 
-The lab emphasizes both **technical modeling fluency** and **critical spatial reasoning**, guiding students through model comparison, spatial pattern analysis, and the epistemological questions behind predictive geospatial AI.
+The lab emphasizes both **technical modeling fluency** and **critical spatial reasoning**, guiding students through model comparison, spatial pattern analysis, and the epistemological questions behind predictive GeoAI.
 
 You will:
 
 - Authenticate and access Google Earth Engine using your own GCP project
 - Compute vegetation and built-up indices such as **NDVI**, **NDBI**, and **NDWI**
-- Build and evaluate multiple models:
-  - Linear regression with NDVI
-  - Random Forest with NDVI
-  - Random Forest with multi-band + index features
-  - Random Forest with additional **geographic context**
+- Build and evaluate multiple models
 - Compare model performance using **R²**, **RMSE**, **MAE**, and scatter plots
 - Visualize and interpret downscaled temperature maps
 - Reflect on the assumptions and implications of spatial downscaling
 
 > **Guiding Question:** How does the choice of input features—spectral, index-based, or geographic—change our ability to model and interpret urban heat?
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakobzhao/geog428/blob/main/labs/lab02/seattle_lst_downscaling_with_rf.ipynb)
-
----
+Click this button to launch the full lab on Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakobzhao/geog428/blob/main/labs/lab02/Seattle_LST_Downscaling_with_RF.ipynb)
 
 ### 🔬 Coding Experiments:
 
@@ -35,8 +29,6 @@ Choose **at least one** of the following and add your experiment(s) to the noteb
 - Try tuning the number of trees in the Random Forest (e.g., `n_estimators=100` vs `500`). How sensitive is the result?
 - Evaluate model bias by region: Which ROI has the highest prediction error?
 
----
-
 ### ✍️ Written Reflection:
 
 At the end of your lab, answer **at least two** of the following questions (300–500 words total):
@@ -44,10 +36,8 @@ At the end of your lab, answer **at least two** of the following questions (300�
 1. Which model performed best in your results, and why do you think that is?
 2. What kinds of features (spectral vs. geographic) contributed most to model accuracy?
 3. Does including latitude/longitude raise any conceptual or practical concerns?
-4. What are the risks of using machine learning to represent geospatial phenomena?
+4. What are the risks of using machine learning to represent geographic phenomena?
 5. What does this exercise teach us about how AI “sees” the city?
-
----
 
 ## ✅ Deliverables
 
@@ -58,4 +48,4 @@ Your submission must include **two parts**:
 
 Please export both parts into a **PDF or Word document** and upload to **Canvas** by the due date.
 
-**Note:** Late submissions will receive a 10% penalty per day unless approved in advance. If you encounter technical or personal issues, please reach out early. Flexibility is possible with communication.
+**Note:** Lab assignments must be submitted electronically to Canvas by the due date. Late submissions will incur a 10% penalty per day unless prior notice is given for valid reasons such as illness, academic conflicts, or personal emergencies. Flexibility is possible with timely communication, but make-up exams or extensions will only be granted in documented, exceptional cases.
