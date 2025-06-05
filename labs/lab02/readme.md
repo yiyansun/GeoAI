@@ -1,4 +1,4 @@
-# Downscaling Land Surface Temperature Data of Seattle Using Random Forests
+# Downscaling Land Surface Thermal Data of Seattle Using Random Forests
 
 **Author:** Bo Zhao, [zhaobo@uw.edu](mailto:zhaobo@uw.edu); **Points Available** = 50
 
@@ -20,7 +20,7 @@ You will:
 
 Click this button to launch the full lab on Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakobzhao/geog428/blob/main/labs/lab02/Seattle_LST_Downscaling_with_RF.ipynb)
 
-### 🔬 Coding Experiments:
+### Coding Experiments:
 
 Choose **at least one** of the following and add your experiment(s) to the notebook:
 
@@ -29,7 +29,7 @@ Choose **at least one** of the following and add your experiment(s) to the noteb
 - Try tuning the number of trees in the Random Forest (e.g., `n_estimators=100` vs `500`). How sensitive is the result?
 - Evaluate model bias by region: Which ROI has the highest prediction error?
 
-### ✍️ Written Reflection:
+### ✍Written Reflection:
 
 At the end of your lab, answer **at least two** of the following questions (300–500 words total):
 
