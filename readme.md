@@ -60,7 +60,7 @@ This week introduces deep learning architectures for interpreting raster imagery
 
 </details>
 
-Lab 3: [Using YOLO to Detect Informal Structures in Urban Spaces)](labs/lab03/)
+Lab 3: [Using YOLO to Detect Informal Structures in Urban Spaces](labs/lab03/)
 
 Lab 4: [Geospatial Segmentation with SAM — Deep Learning for Feature Detection](labs/lab04/)
 
