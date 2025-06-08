@@ -1,10 +1,10 @@
-# **GEOG495: Geospatial Artificial Intelligence (Under Development)**
+<img src="res/geoai.png" align="right" width="20%" target="_blank" />  # **GEOG495: Geospatial Artificial Intelligence (Under Development)**
 
 - **Instructor:** Bo Zhao, zhaobo@uw.edu
 - **Meeting Time:** Asynchronous 
 - **Office Hours:** By appointment or request a zoom meeting via https://t.ly/kpj_t
 
-<img src="res/geoai.png" align="right" width="20%" target="_blank" /> This course explores the emerging field of Geospatial Artificial Intelligence (GeoAI), focusing on the integration of machine learning, deep learning, and large language models (LLMs) in the context of geographic data. Students will engage both technically and critically with the tools and concepts shaping the future of spatial and placial analysis. This crush course emphasizes hands-on lab experimentation, paper-driven learning, and critical reflection on the social and epistemological implications of AI-powered geospatial technologies.
+This course explores the emerging field of Geospatial Artificial Intelligence (GeoAI), focusing on the integration of machine learning, deep learning, and large language models (LLMs) in the context of geographic data. Students will engage both technically and critically with the tools and concepts shaping the future of spatial and placial analysis. This crush course emphasizes hands-on lab experimentation, paper-driven learning, and critical reflection on the social and epistemological implications of AI-powered geospatial technologies.
 
 The class is reading- and lab-driven. Each week begins with a selection of the assigned readings, where students are encouraged to engage with the texts by bringing in real-world examples and critical questions. Lab sessions are guided but self-directed, creating space for open experimentation, problem-solving, and reflective analysis.
 
