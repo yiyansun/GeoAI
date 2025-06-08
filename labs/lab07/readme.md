@@ -15,7 +15,7 @@ You will:
 
 > **Guiding question:** What does GeoAI “know” about space — and whose geographies are most likely to be collapsed, hallucinated, or hidden?
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vPi72aGdr-eAXvSuNIBDj4dJHIV0jAW7)
+Click this button to launch the full lab on Colab: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vPi72aGdr-eAXvSuNIBDj4dJHIV0jAW7)
 
 ---
 
