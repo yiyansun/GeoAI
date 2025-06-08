@@ -1,4 +1,4 @@
-# 🔍 Critical Exam of GeoAI: Collapse, Hallucination, Bias, and the Limits of Geospatial Intelligence
+# Critical Exam of GeoAI: Collapse, Hallucination, Bias, and the Limits of Geospatial Intelligence
 
 **Instructor:** Bo Zhao, [zhaobo@uw.edu](mailto:zhaobo@uw.edu), **Points Available:** 50
 
@@ -19,7 +19,7 @@ You will:
 
 ---
 
-## 🧪 Coding Experiments:
+## Coding Experiments:
 
 Try one or more of the following extensions in your notebook:
 
@@ -28,9 +28,7 @@ Try one or more of the following extensions in your notebook:
 - Repeat the same workflow in another city (e.g., Portland, Chicago, or Atlanta). Are results similar or different?
 - Remove precision-limited predictions (e.g., with fewer than 3 decimal places) and assess the impact on overall error.
 
----
-
-## ✍️ Written Reflection (Required):
+## Written Reflection:
 
 At the end of your lab, please answer **at least two** of the following prompts (300–500 words total):
 
@@ -39,8 +37,6 @@ At the end of your lab, please answer **at least two** of the following prompts 
 3. How did social and geographic features (e.g., income, race, location) correlate with model error?
 4. What limits of GeoAI did this lab help you surface — technical, social, ethical, or otherwise?
 5. What would a more just or equitable geocoding model look like?
-
----
 
 ## ✅ Deliverables
 
@@ -51,11 +47,4 @@ Your submission must include **two parts**:
 
 Please export both parts into a **PDF or Word document** and upload it to **Canvas**.
 
-> **Note:** Assignments must be submitted by the due date. Late submissions will incur a 10% penalty per day unless prior accommodations are arranged. We support flexibility with advance communication, but extensions will only be granted under documented circumstances.
-
----
-
-## 🧠 Acknowledgement
-
-This lab builds upon GeoAI workflows developed by Bo Zhao and students in GEOG495.  
-Design inspired by Haowei Wei’s original contributions on critical spatial data science.
+**Note:** Lab assignments must be submitted electronically to Canvas by the due date. Late submissions will incur a 10% penalty per day unless prior notice is given for valid reasons such as illness, academic conflicts, or personal emergencies. Flexibility is possible with timely communication, but make-up exams or extensions will only be granted in documented, exceptional cases.
