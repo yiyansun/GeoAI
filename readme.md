@@ -2,7 +2,7 @@
 
 - **Instructor:** Bo Zhao, zhaobo@uw.edu <img src="res/geoai.png" align="right" width="30%" target="_blank" />  
 - **Meeting Time:** Asynchronous 
-- **Office Hours:** Available by appointment or via Zoom: https://t.ly/kpj_t
+- **Office Hours:** Available by appt or via Zoom: https://t.ly/kpj_t
 
 This course explores the emerging field of Geospatial Artificial Intelligence (GeoAI), focusing on the integration of machine learning, deep learning, and large language models (LLMs) in the context of geographic data. Students will engage both technically and critically with the tools and concepts shaping the future of spatial and placial analysis. This crush course emphasizes hands-on lab experimentation, paper-driven learning, and critical reflection on the social and epistemological implications of AI-powered geospatial technologies.
 
