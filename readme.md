@@ -98,7 +98,7 @@ We conclude by examining the sociotechnical risks of GeoAI. Students critically 
 
 </details>
 
-Lab 7: Diagnosing Hallucinations and Bias in LLM-based Spatial Analysis
+Lab 7: [Critical Exam of GeoAI: Collapse, Hallucination, Bias, and the Limits of Geospatial Intelligence](labs/lab07)
 
 ---
 
