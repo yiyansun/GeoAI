@@ -62,7 +62,7 @@ This week introduces deep learning architectures for interpreting raster imagery
 
 Lab 3: [Using YOLO to Detect Informal Structures in Urban Spaces](labs/lab03/)
 
-Lab 4: [Geospatial Segmentation with SAM — Deep Learning for Feature Detection](labs/lab04/)
+Lab 4: [Geospatial Segmentation with SAM: Deep Learning for Feature Detection](labs/lab04/)
 
 
 ### **Week 3: LLMs for Mapping and Geospatial Reasoning**
@@ -80,7 +80,7 @@ This week turns to natural language as a mode of spatial analysis. Students expl
 > 4. OpenAI (2023). *ChatGPT API documentation*. https://platform.openai.com/docs/api-reference/chat/create
 </details>
 
-Lab 5: Prompt-to-Map – Generating Annotated Interactive Thematic Maps with LLMs
+Lab 5: [Prompt-to-Map: Using LLMs for Map Generation and Spatial Analysis](labs/lab05)
 
 Lab 6: Natural Language Geocoding – Converting Text to Spatial Data with ChatGPT
 
