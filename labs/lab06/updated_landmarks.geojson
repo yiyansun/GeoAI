@@ -1,0 +1,309 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31011699999999,
+          47.63679780000001
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "name": "Louisa Boren Park",
+        "address": null,
+        "type": "Park",
+        "sense_of_place": "A scenic overlook providing views of Lake Washington, Union Bay, and the Cascade Mountains, imbued with a sense of historical significance due to its namesake’s role as one of Seattle’s founders.",
+        "rhetorical_devices": "historical allusion, visual metaphor",
+        "description": "A park offering views and historic trees, named after Louisa Boren, one of Seattle’s earliest citizens and a member of the Denny Party."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31381809999999,
+          47.63891690000001
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "name": "Grand Army of the Republic Cemetery",
+        "address": "E Howe Street",
+        "type": "Cemetery",
+        "sense_of_place": "A somber, respectful place honoring the sacrifices of Union veterans of the Civil War, connecting the local area to national history.",
+        "rhetorical_devices": "historical allusion, memorial",
+        "description": "A cemetery established to honor Union veterans of the Civil War, containing graves of soldiers including black soldiers, managed by the Seattle Parks Department."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31795399999999,
+          47.63596380000001
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "name": "Streissguth Gardens",
+        "address": "E Blaine Street",
+        "type": "Park",
+        "sense_of_place": "An urban oasis offering tranquility and connection to nature, providing a respite from the urban environment.",
+        "rhetorical_devices": "metaphor (urban oasis)",
+        "description": "A small urban garden started by the Streissguth family, now owned by the city, providing a quiet, natural space."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31901949999998,
+          47.63318170000001
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "name": "E Highland Dr",
+        "address": "E Highland Dr & Harvard Ave E",
+        "type": "Street",
+        "sense_of_place": "A route through a residential area, evoking a sense of community and historical continuity.",
+        "rhetorical_devices": null,
+        "description": "A street within Capitol Hill, used as a route in the walking tour."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31771829999998,
+          47.63134510000001
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "name": "Lakeview Blvd E",
+        "address": null,
+        "type": "Street",
+        "sense_of_place": "Likely a road name used for orientation",
+        "rhetorical_devices": null,
+        "description": "Likely a road name used for orientation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32014449999998,
+          47.63516570000001
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "name": "Harvard Ave E",
+        "address": null,
+        "type": "Street",
+        "sense_of_place": "Likely a road name used for orientation",
+        "rhetorical_devices": null,
+        "description": "Likely a road name used for orientation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3215432,
+          47.62665000000001
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "name": "Belmont Ave E",
+        "address": null,
+        "type": "Street",
+        "sense_of_place": "Likely a road name used for orientation",
+        "rhetorical_devices": null,
+        "description": "Likely a road name used for orientation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3205673,
+          47.62782420000001
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "name": "Belmont Place E",
+        "address": null,
+        "type": "Street",
+        "sense_of_place": "Likely a road name used for orientation",
+        "rhetorical_devices": null,
+        "description": "Likely a road name used for orientation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3195411,
+          47.627792600000014
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "name": "Belmonts intersect",
+        "address": null,
+        "type": "Natural Feature",
+        "sense_of_place": "A corner with a large tree, a Garry oak, also known as Oregon white oak, Washington's lone native oak.",
+        "rhetorical_devices": null,
+        "description": "A corner with a large tree, a Garry oak, also known as Oregon white oak, Washington's lone native oak."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31964599999999,
+          47.62770000000001
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "name": "E Roy Street",
+        "address": null,
+        "type": "Street",
+        "sense_of_place": "Likely a road name used for orientation",
+        "rhetorical_devices": null,
+        "description": "Likely a road name used for orientation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31720289999998,
+          47.62793400000001
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "name": "Federal Ave E",
+        "address": null,
+        "type": "Street",
+        "sense_of_place": "Likely a road name used for orientation",
+        "rhetorical_devices": null,
+        "description": "Likely a road name used for orientation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31210499999999,
+          47.62883220000001
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "name": "Millionaire's Row",
+        "address": "E Roy Street & 14th Avenue E",
+        "type": "Street",
+        "sense_of_place": "A street with fine early-20th-century homes, evokes a sense of opulence and architectural variety.",
+        "rhetorical_devices": "historical allusion",
+        "description": "The start of 'Millionaire's Row' where Seattle's finest early-20th-century homes are located, near E Roy Street & 14th Avenue E."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30354349999999,
+          47.62934570000001
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "name": "Frederick Anhalt Apartments",
+        "address": "E Roy Street",
+        "type": "Building",
+        "sense_of_place": "Distinctive apartments evoke a sense of architectural elegance and European-inspired design, enriching the urban landscape.",
+        "rhetorical_devices": "allusion (French Norman)",
+        "description": "Apartments designed by Frederick Anhalt in the late 1920s, featuring French Norman inspired elements like turrets and arches."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31014719999999,
+          47.63349010000001
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "name": "E Valley Street",
+        "address": null,
+        "type": "Street",
+        "sense_of_place": "Contains a low granite block, a stepping stone. People getting out of horse-drawn carriages would have stepped onto the block and then down to the ground.",
+        "rhetorical_devices": null,
+        "description": "Contains a low granite block, a stepping stone. People getting out of horse-drawn carriages would have stepped onto the block and then down to the ground."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31163539999999,
+          47.63279570000001
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "name": "Seattle Asian Art Museum",
+        "address": null,
+        "type": "Institution",
+        "sense_of_place": "A cultural hub displaying Asian art and architectural innovation, inviting contemplation and appreciation of diverse artistic traditions.",
+        "rhetorical_devices": "architectural metaphor",
+        "description": "The original Seattle Art Museum, now housing the Seattle Asian Art Museum, known for its progressive architectural design that broke away from neoclassical styles."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30970669999999,
+          47.63641800000001
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "name": "Volunteer Park",
+        "address": null,
+        "type": "Park",
+        "sense_of_place": "A historic public space with recreational features.",
+        "rhetorical_devices": null,
+        "description": "A historical site purchased by the city for a cemetery in 1876."
+      }
+    }
+  ]
+}
