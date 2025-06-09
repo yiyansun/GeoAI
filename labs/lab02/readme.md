@@ -1,4 +1,4 @@
-# Downscaling Land Surface Thermal Data of Seattle Using Random Forests
+# Downscaling Urban Heat of Seattle Using Random Forests
 
 **Instructor:** Bo Zhao, [zhaobo@uw.edu](mailto:zhaobo@uw.edu); **Points Available** = 50
 
