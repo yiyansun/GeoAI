@@ -41,7 +41,7 @@ We begin with an overview of AI’s evolution and its intersections with geograp
 
 Lab 1: [Predicting Boston Housing Prices Using Machine Learning](labs/lab01/)
 
-Lab 2: [Downscaling Land Surface Temperature Data of Seattle Using Random Forests](labs/lab02)
+Lab 2: [Downscaling Urban Heat of Seattle Using Random Forests](labs/lab02)
 
 ### **Week 2: Place, Space and Deep Learning**
 
@@ -60,9 +60,9 @@ This week introduces deep learning architectures for interpreting raster imagery
 
 </details>
 
-Lab 3: [Using YOLO to Detect Informal Structures in Urban Spaces](labs/lab03/)
+Lab 3: [Using YOLO to Detect Homeless Camps in Seattle Urban Spaces](labs/lab03/)
 
-Lab 4: [Geospatial Segmentation with SAM: Deep Learning for Feature Detection](labs/lab04/)
+Lab 4: [Geospatial Segmentation with SAM: Deep Learning for Tree Canopy Detection](labs/lab04/)
 
 
 ### **Week 3: LLMs for Mapping and Geospatial Reasoning**
