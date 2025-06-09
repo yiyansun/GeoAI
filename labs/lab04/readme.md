@@ -1,4 +1,4 @@
-# Geospatial Segmentation with SAM — Deep Learning for Feature Detection
+# Geospatial Segmentation with SAM: Deep Learning for Tree Canopy Detection
 
 **Instructor:** Bo Zhao, [zhaobo@uw.edu](mailto:zhaobo@uw.edu); **Points Available** = 50
 
