@@ -82,7 +82,7 @@ This week turns to natural language as a mode of spatial analysis. Students expl
 
 Lab 5: [Prompt-to-Map: Using LLMs for Map Generation and Spatial Analysis](labs/lab05)
 
-Lab 6: Natural Language Geocoding – Converting Text to Spatial Data with ChatGPT
+Lab 6: [Prompting Geospatial Reasoning: Understanding Space and Place with Gemini](labs/lab06)
 
 
 ### **Week 4: Hallucinations, Bias, and Sustainability**
