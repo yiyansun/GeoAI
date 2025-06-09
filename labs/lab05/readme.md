@@ -1,4 +1,4 @@
-# Prompt-to-Map – Using LLMs for Map Generation and Spatial Analysis
+# Prompt-to-Map： Using LLMs for Map Generation and Spatial Analysis
 
 **Instructor:** Bo Zhao, [zhaobo@uw.edu](mailto:zhaobo@uw.edu), **Points Available** = 50
 
