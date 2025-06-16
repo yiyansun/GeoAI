@@ -1,95 +1,139 @@
-# 🧪 Lab 3: Using YOLO to Detect Informal Structures in Urban Spaces
+# 🧪 Identifying Homeless Camps Using YOLO
 
-## 🎯 Objective
+**Instructor:** Bo Zhao, [zhaobo@uw.edu](mailto:zhaobo@uw.edu)  
+**Points Available** = 50
 
-This lab explores how a pre-trained object detection model (YOLOv8) performs in recognizing both **standard** and **informal/irregular** urban structures. The goal is not only to understand the technical workflow of object detection but also to engage critically with the socio-spatial biases embedded in AI systems.
+This lab introduces students to the use of **deep learning for geospatial object detection** using the YOLOv8 model. You will start by exploring the results of a pretrained YOLO model and then proceed to **fine-tune a model** using your own annotated dataset to detect a novel class: **"camp"** — referring to **homeless camps** such as tents or makeshift shelters in urban environments.
 
-Students will:
+The lab also critically engages with the ethical implications of applying automated detection systems to socially sensitive phenomena.
 
-- Apply YOLOv8 to images of both structured and unstructured urban environments.
-- Evaluate detection performance differences, especially in recognizing objects like **homeless tents**, **makeshift shelters**, and **small or semi-legal constructions**.
-- Reflect on the political and epistemological implications of what the AI "sees" and "misses".
+You will:
 
----
+- Run a pretrained YOLOv8 model on urban imagery
+- Annotate and prepare a training dataset using LabelImg
+- Fine-tune YOLOv8 on the "camp" class
+- Reflect on the **risks and benefits** of using deep learning to recognize **homeless camps**
 
-## 🧰 Workflow
-
-> This lab follows a **fixed pipeline**. Students are not expected to define their own categories or custom training sets for now.
-
-### Step 1: Dataset Preparation
-
-You will be provided with two sets of urban imagery:
-
-1. **Structured Urban Scenes**: commercial districts, residential zones, clean sidewalks, etc. These are environments where YOLOv8 performs well.
-2. **Informal/Marginal Spaces**: underpasses, alleyways, tent encampments, and informal housing. These are challenging for standard models.
-
-> Images will be collected from sources such as Google Street View, Mapillary, or instructor-provided datasets.
+> **Guiding question:** How can deep learning models like YOLO shape — and perhaps distort — our understanding of spatial visibility, homelessness, and social intervention?
 
 ---
 
-### Step 2: Run YOLOv8 Object Detection
-
-Using a pre-trained YOLOv8 model:
-
-- Run detection on both datasets.
-- Export detection outputs: bounding boxes, object classes, and confidence scores.
-- Note which types of objects are reliably detected — and which are consistently missed.
+Click this button to launch the full lab in Colab:  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E2WRix3C_BtaJYuaWitYtG4aqP9jra5P?usp=sharing)
 
 ---
 
-### Step 3: Visualize & Compare Results
+## 🧠 Background
 
-- Overlay YOLO detection boxes on the original images.
-- Compare metrics between the two datasets:
-  - Average number of objects detected per image
-  - Class distribution of detected objects
-  - Mean confidence scores
-  - Detection gaps (areas with visible but undetected structures)
+YOLO (You Only Look Once) is a family of real-time object detection models based on convolutional neural networks (CNNs). YOLOv8, developed by Ultralytics, improves detection accuracy and speed across a variety of applications. In this lab, we apply YOLO to a **socially fraught detection problem** — identifying **homeless camps** from aerial or street-level imagery.
+
+This task raises critical questions:  
+- Who defines what is “visible” in the urban landscape?  
+- What are the consequences of making certain populations hyper-visible through AI?
+
+
+## 🧰 Steps for Model Training
+
+### 1. Install YOLOv8
+
+```bash
+pip install ultralytics
+```
+
+Then in Python:
+
+```python
+from ultralytics import YOLO
+```
+
+---
+
+### 2. Annotate Training Data
+
+1. Clone the annotation tool:
+   ```bash
+   git clone https://github.com/HumanSignal/labelImg.git
+   cd labelImg
+   python -m venv venv
+   source venv/bin/activate  # Windows use: venv\Scripts\activate
+   pip install pyqt5 lxml
+   pyrcc5 -o libs/resources.py resources.qrc
+   python labelImg.py
+   ```
+
+2. Create bounding boxes for **"camp"** objects representing **homeless camps**. Save the labels in YOLO format.
+
+3. Your dataset structure should look like:
+
+```
+homelesscamp_data/
+├── images/
+│   ├── train/
+│   └── val/
+└── labels/
+    ├── train/
+    └── val/
+```
+
+
+### 3. Configure the Dataset
+
+Create a YAML file (`custom_data.yaml`) with the following content:
+
+```yaml
+path: /content/dataset/homelesscamp_data
+train: images/train
+val: images/val
+nc: 1
+names: ['camp']
+```
+
+
+### 4. Train the Model
+
+```python
+model = YOLO('yolov8n.pt')  # Lightweight version
+model.train(data='custom_data.yaml', epochs=70, imgsz=640, batch=4)
+```
+
+The best-performing weights will be saved in:
+
+```
+runs/detect/train/weights/best.pt
+```
 
 ---
 
-## 🧠 Critical Reflection
+### 5. Run Inference on Test Images
 
-Students are required to include a short reflection (~300 words) in their lab report, addressing questions like:
+```python
+model = YOLO('runs/detect/train/weights/best.pt')
+results = model('path_to_test_image.jpg')
+results[0].show()
+```
 
-- **Algorithmic Blind Spots**: What does it mean when the model fails to detect informal structures like tents or shacks?
-- **Spatial Bias in Training Data**: YOLO is trained on COCO/ImageNet datasets. Are these biased toward orderly, middle-class environments?
-- **Gentrification & Visibility**: In areas undergoing gentrification, do detection failures reflect broader processes of displacement and erasure?
-- **Implications for Urban AI**: How could such limitations impact real-world applications like urban planning or automated surveillance?
+Compare results between the **pretrained model** and your **fine-tuned model**.
 
----
 
-## 📦 Optional Extension (Instructor-led)
+## ✍️ Written Reflection
 
-If time and resources permit, the following activities may be explored:
+At the end of your lab, please respond to **at least two** of the following questions (300–500 words total):
 
-- Use Meta’s Segment Anything Model (SAM) to visualize what YOLO might have missed.
-- Manually annotate 10–20 informal structures, retrain YOLO on this micro-dataset, and compare performance.
-- Import undetected areas into GIS as polygons, analyze spatial correlation with zoning maps, eviction data, or income layers.
+1. How does YOLOv8’s deep learning architecture allow it to detect objects like **homeless camps**?  
+2. What are the risks of training AI models to detect socially sensitive features such as **homeless camps**?  
+3. What are the potential benefits of such detection? Who might benefit?  
+4. What limitations did you notice in how the model performed, either before or after fine-tuning?
 
----
 
 ## ✅ Deliverables
 
-- Processed images with YOLO detection results (structured vs informal)
-- A short report (markdown or PDF) including:
-  - A summary of findings
-  - Visualizations
-  - Critical reflection section
+Your lab submission must include:
 
----
+1. **Colab Notebook** with detection results from both the pretrained and custom-trained models.
+2. **Annotated images** before and after fine-tuning.
+3. **Written reflection** (as markdown cell or attached doc/PDF).
 
-## 🛠️ Tools
+Upload your submission to **Canvas** by the due date.
 
-- Python (YOLOv8 via `ultralytics`)
-- Google Colab (provided starter notebook)
-- Sample datasets
-- Optional: Segment Anything, QGIS, or geopandas for spatial overlays
+> **Late Policy:** 10% penalty per day unless prior approval granted for valid reasons (illness, emergency, academic conflict).
 
----
-
-## 💬 Closing Thought
-
-> *"What the algorithm sees — and does not see — shapes how we govern space."*
-
-This lab invites you to go beyond model performance, toward a deeper understanding of how AI encodes, amplifies, or ignores the complexities of urban life.
