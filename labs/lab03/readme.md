@@ -1,7 +1,6 @@
-# 🧪 Identifying Homeless Camps Using YOLO
+# Identifying Homeless Camps Using YOLO
 
-**Instructor:** Bo Zhao, [zhaobo@uw.edu](mailto:zhaobo@uw.edu)  
-**Points Available** = 50
+**Instructor:** Bo Zhao, [zhaobo@uw.edu](mailto:zhaobo@uw.edu), **Points Available** = 50
 
 This lab introduces students to the use of **deep learning for geospatial object detection** using the YOLOv8 model. You will start by exploring the results of a pretrained YOLO model and then proceed to **fine-tune a model** using your own annotated dataset to detect a novel class: **"camp"** — referring to **homeless camps** such as tents or makeshift shelters in urban environments.
 
@@ -21,7 +20,6 @@ You will:
 Click this button to launch the full lab in Colab:  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E2WRix3C_BtaJYuaWitYtG4aqP9jra5P?usp=sharing)
 
----
 
 ## 🧠 Background
 
