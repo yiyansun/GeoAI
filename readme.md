@@ -21,7 +21,9 @@ The class is reading- and lab-driven. Each week begins with a selection of the a
 
 ## 📚 Weekly Schedule
 
-Each week includes ~3 readings, 2 lab sessions and one piece of reading reflection.
+Each week includes approximately three readings, two lab sessions, and one reading reflection. All assigned readings are available in the readings folder of this GitHub repository.
+
+
 
 ### **Week 1: Introduction & Machine Learning for Spatial Data**
 
@@ -96,7 +98,7 @@ Lab 7: [Critical Exam of GeoAI: Collapse, Hallucination, Bias, and the Limits of
 
 ###  💻 Computational skill
 
-This course welcomes students who some computational experience, or have programmed in a python or javascript IDE (Integrated Development Environment), especially Google CoLab. Students should at least hear of GIS, GitHub, Leaflet, web crawler, or Raspberry Pi before considering this course, and most importantly, be self-motivated to solve a research question with the listed computational skills.
+This course welcomes students who some computational experience, or have programmed in a python or javascript IDE (Integrated Development Environment), especially Google CoLab. Students should at least hear of GIS, GitHub, LLMs before considering this course, and most importantly, be self-motivated to solve a research question with the listed computational skills.
 
 ### 🚀 GitHub
 
@@ -129,7 +131,7 @@ The final essay is due at the end of Week 4 and should be between 2,500 and 3,00
 
 | Component               | Weight |
 | ----------------------- | ------ |
-| Lab Assignments (8)     | 40%    |
+| Lab Assignments (4)     | 40%    |
 | Final Essay             | 25%    |
 | Reading Reflections (4) | 25%    |
 | Quizzes (2)             | 10%    |
