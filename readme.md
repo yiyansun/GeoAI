@@ -198,15 +198,3 @@ It is important that you take care of yourselves inside and outside of class as 
 
 `© 2019-2025 All rights are reserved by Bo Zhao.`
 
-
-
-X2. 4 labs in total, pick one among 1 and 2, pick one among 3 and 4, etc.
-X3. reading piece must be about the papers. 
-X4. final paper: research proposal.
-X7. a google colab tutorial
-
-1. Intro video.
-5. revise the lab questions a bit.
-6. update the canvas.
-
-
