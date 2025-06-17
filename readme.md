@@ -120,9 +120,9 @@ This course material will be hosted on GitHub instead of UW Canvas. On this dedi
 
 There will be **three short quizzes** administered throughout the course to assess your foundational understanding of key GeoAI concepts. Each quiz aligns with the major technical focus of the corresponding week:
 
-- **Week 1 Quiz:** Focuses on **machine learning fundamentals**, especially as introduced in the technical reading from *The Hundred-Page Machine Learning Book*.
-- **Week 2 Quiz:** Covers **deep learning basics**, guided by the technical content in the assigned deep learning reading.
-- **Week 3 Quiz:** Centers on the core concepts behind **large language models (LLMs)**, drawing from technical materials such as the ChatGPT documentation and research overview.
+- **Week 1 Quiz:** Focuses on **machine learning fundamentals**, especially as introduced in the selected chapters from the book **Python machine learning**.
+- **Week 2 Quiz:** Covers **deep learning basics**, guided by the technical content in the assigned deep learning chapters from the book **Python machine learning**.
+- **Week 3 Quiz:** Centers on the core concepts behind **large language models (LLMs)**, drawing from technical materials from the book **Understanding large language models**.
 
 These quizzes are **open-note**, **untimed**, and designed to be approachable. They will include a mix of multiple-choice, short answer, and code interpretation questions, but **will not require advanced mathematics**. The primary goal is not to test memorization or complex calculations, but to help you **solidify a general understanding** of how machine learning, deep learning, and LLMs work in the context of geospatial data. Think of them as low-stakes checkpoints that prepare you for more hands-on, applied lab work in later weeks.
 
