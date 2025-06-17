@@ -1,14 +1,14 @@
 # **GEOG495: Geospatial Artificial Intelligence**
 
-- **Instructor:** Bo Zhao, zhaobo@uw.edu <img src="res/geoai.png" align="right" width="30%" target="_blank" />  
+- **Instructor:** Bo Zhao, zhaobo@uw.edu <img src="res/geoai.png" align="right" width="36%" target="_blank" />  
 - **Meeting Time:** Asynchronous
 - **Office Hours:** Available by Appointment or via Zoom: https://t.ly/kpj_t
 
 This course explores the emerging field of Geospatial Artificial Intelligence (GeoAI), focusing on the integration of machine learning, deep learning, and large language models (LLMs) in the context of geographic data. Students will engage both technically and critically with the tools and concepts shaping the future of spatial and placial analysis. This crush course emphasizes hands-on lab experimentation, paper-driven learning, and critical reflection on the social and epistemological implications of AI-powered geospatial technologies.
 
-The class is reading- and lab-driven. Each week begins with a selection of the assigned readings, where students are encouraged to engage with the texts by bringing in real-world examples and critical questions. Lab sessions are guided but self-directed, creating space for open experimentation, problem-solving, and reflective analysis.
+The course is both reading- and lab-driven, structured to balance technical engagement with critical reflection. Each week begins with a set of approximately three assigned readings, where students are encouraged to engage actively by bringing in real-world examples and posing critical questions. Most readings are available in the “readings” folder of the course GitHub repository; if not, they can typically be accessed through the UW Library system. Lab sessions are guided but self-directed, offering space for open experimentation, problem-solving, and reflective analysis. You are required to complete four out of the seven total labs: choose either Lab 1 or 2 for Week 1, Lab 3 or 4 for Week 2, Lab 5 or 6 for Week 3, and complete Lab 7 for Week 4. Additionally, one quiz will be assigned each week during the first three weeks, and the final essay is due by the end of Week 4. **New to Google Colab? No worries—check out [this tutorial](https://colab.research.google.com/) to get started.**
 
-## 🧭 Course Objectives
+### Course Objectives
 
 * **Understand** the technical foundations and workflows of GeoAI, including machine learning, deep learning, and LLMs.
 * **Apply** open-source tools (Google Colab and Gemini) to analyze spatial data.
@@ -20,13 +20,11 @@ The class is reading- and lab-driven. Each week begins with a selection of the a
 
 ---
 
-## 📚 Weekly Schedule
-
-Each week includes approximately three readings, two lab sessions, and one reading reflection. All assigned readings are available in the readings folder of this GitHub repository.
+## Weekly Schedule
 
 ### **Week 1: Introduction & Machine Learning for Spatial Data**
 
-We begin with an overview of AI’s evolution and its intersections with geographic thought. Students are introduced to foundational machine learning techniques applied to spatial data using Google Colab. This week sets the tone for the course by situating GeoAI within both technical and critical frameworks.
+We begin with an overview of GeoAI’s evolution and its intersections with geographic thought. Students are introduced to foundational machine learning techniques applied to spatial data using Google Colab. This week sets the tone for the course by situating GeoAI within both technical and critical frameworks.
 
 <details>
 <summary><b>Readings</b></summary>
@@ -38,7 +36,11 @@ We begin with an overview of AI’s evolution and its intersections with geograp
 
 Lab 1: [Predicting Boston Housing Prices Using Machine Learning](labs/lab01/)
 
-Lab 2: [Downscaling Urban Heat of Seattle Using Random Forests](labs/lab02)
+Lab 2: [Downscaling Urban Heat of Seattle Using Random Forests](labs/lab02) 
+
+Quiz 1 on Machine Learning 
+
+Reading Reflection 1 on Li et al.'s paper (2024)
 
 ### **Week 2: Place, Space and Deep Learning**
 
@@ -57,8 +59,12 @@ Lab 3: [Using YOLO to Detect Homeless Camps in Seattle Urban Spaces](labs/lab03/
 
 Lab 4: [Geospatial Segmentation with SAM: Deep Learning for Tree Canopy Detection](labs/lab04/)
 
+Quiz 2 on Deep Learning 
 
-### **Week 3: LLMs for Mapping and Geospatial Reasoning**
+Reading Reflection 2 on either Zhao et al.'s paper (2021) or Janowicz et al's paper (2022).
+
+
+### **Week 3: Large Language Models for Mapping and Geospatial Reasoning**
 
 This week turns to natural language as a mode of spatial analysis. Students explore how LLMs like ChatGPT can perform geocoding, generate maps, and interpret GIS data from text prompts. Discussions center around the promises and limitations of natural language interfaces.
 
@@ -75,8 +81,11 @@ Lab 5: [Prompt-to-Map: Using LLMs for Map Generation and Spatial Analysis](labs/
 
 Lab 6: [Prompting Geospatial Reasoning: Understanding Space and Place with Gemini](labs/lab06)
 
+Quiz 3 on Large Language Models
 
-### **Week 4: Hallucinations, Bias, and Sustainability**
+Reading Reflection 3 on either Lin and Zhao's paper (2025) or Manvi et al.'s paper (2023)
+
+### **Week 4: A Deep Dive into GeoAI: Hallucinations, Bias, and Sustainability**
 
 We conclude by examining the sociotechnical risks of GeoAI. Students critically assess hallucinations, embedded bias, and environmental impacts of AI. The week culminates in an exploratory lab and final reflection.
 
@@ -90,6 +99,8 @@ We conclude by examining the sociotechnical risks of GeoAI. Students critically 
 </details>
 
 Lab 7: [Critical Exam of GeoAI: Collapse, Hallucination, Bias, and the Limits of Geospatial Intelligence](labs/lab07)
+
+Links to submit your final project
 
 ---
 
@@ -105,11 +116,11 @@ This course material will be hosted on GitHub instead of UW Canvas. On this dedi
 
 ### 🧾 Quizzes
 
-There will be two short quizzes administered during the course to assess students’ foundational understanding of key technical concepts. These quizzes are designed to reinforce core material covered in lectures, readings, and lab work—such as machine learning workflows, deep learning architectures, spatial data structures, and the capabilities and limitations of large language models in geospatial contexts. The quizzes will be open-note, unlimited time, and may include a mix of multiple choice, short answer, and code interpretation questions. While they are not meant to be high-stakes, the quizzes serve as checkpoints to help students consolidate knowledge and ensure readiness for more advanced lab applications.
+There will be three short quizzes administered during the course to assess students’ foundational understanding of key technical concepts. These quizzes are designed to reinforce core material covered in lectures, readings, and lab work—such as machine learning workflows, deep learning architectures, spatial data structures, and the capabilities and limitations of large language models in geospatial contexts. The quizzes will be open-note, unlimited time, and may include a mix of multiple choice, short answer, and code interpretation questions. While they are not meant to be high-stakes, the quizzes serve as checkpoints to help students consolidate knowledge and ensure readiness for more advanced lab applications.
 
 ### 🧪 Lab Exercises
 
-Students are required to complete eight hands-on lab assignments over the course of four weeks. All labs will be conducted using Google Colab and will focus on applying machine learning, deep learning, and large language models to geospatial data. Each lab involves writing and executing Python code, and students must ensure that their code is clearly organized, well-commented, and reproducible. Final versions of each lab should be submitted via GitHub, along with a short README file explaining the objective, approach, and key outcomes. These labs are designed not only to build technical skills, but also to encourage critical reflection on the design and use of GeoAI methods.
+Students are required to complete four of the seven hands-on lab assignments over the course of four weeks. All labs will be conducted using Google Colab and will focus on applying machine learning, deep learning, and large language models to geospatial data. Each lab involves writing and executing Python code, and students must ensure that their code is clearly organized, well-commented, and reproducible. Final versions of each lab should be submitted via GitHub, along with a short README file explaining the objective, approach, and key outcomes. These labs are designed not only to build technical skills, but also to encourage critical reflection on the design and use of GeoAI methods.
 
 ### 👩‍🔬 Reading Reflection
 
@@ -132,8 +143,8 @@ The final essay is due at the end of Week 4 and should be between 2,500 and 3,00
 | ----------------------- | ------ |
 | Lab Assignments (4)     | 40%    |
 | Final Essay             | 25%    |
-| Reading Reflections (4) | 25%    |
-| Quizzes (2)             | 10%    |
+| Reading Reflections (3) | 25%    |
+| Quizzes (3)             | 10%    |
 
 
 ## :notebook_with_decorative_cover: Equity & Inclusivity
@@ -165,4 +176,6 @@ It is important that you take care of yourselves inside and outside of class as 
 3. reading piece must be about the papers. 
 4. final paper: research proposal.
 5. revise the lab questions a bit.
+6. update the canvas.
+7. a google colab tutorial
 
