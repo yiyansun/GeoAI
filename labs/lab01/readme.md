@@ -23,7 +23,7 @@ Click this button to launch the full lab on Colab: [![Open In Colab](https://col
 Try one of the following in your notebook:
 
 * Change Random Forest or XGBoost hyperparameters. How does performance shift?
-* Remove a sensitive variable like CRIM or B. How does the model respond?
+* Remove a variable like CRIM or B. How does the model respond?
 * Segment model error by price bracket (low, medium, high). What patterns emerge?
 
 
