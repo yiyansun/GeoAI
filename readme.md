@@ -1,7 +1,7 @@
 # **GEOG495: Geospatial Artificial Intelligence** 
 
 - **Instructor:** Bo Zhao, zhaobo@uw.edu <img src="res/geoai.png" align="right" width="30%" target="_blank" />  
-- **Meeting Time:** Asynchronous 
+- **Meeting Time:** Asynchronous
 - **Office Hours:** Available by appt or via Zoom: https://t.ly/kpj_t
 
 This course explores the emerging field of Geospatial Artificial Intelligence (GeoAI), focusing on the integration of machine learning, deep learning, and large language models (LLMs) in the context of geographic data. Students will engage both technically and critically with the tools and concepts shaping the future of spatial and placial analysis. This crush course emphasizes hands-on lab experimentation, paper-driven learning, and critical reflection on the social and epistemological implications of AI-powered geospatial technologies.
@@ -11,7 +11,7 @@ The class is reading- and lab-driven. Each week begins with a selection of the a
 ## 🧭 Course Objectives
 
 * **Understand** the technical foundations and workflows of GeoAI, including machine learning, deep learning, and LLMs.
-* **Apply** open-source tools (Google Colab, GEMINI, ChatGPT API, LangChain) to analyze spatial data.
+* **Apply** open-source tools (Google Colab and Gemini) to analyze spatial data.
 * **Critically evaluate** the societal, ethical, and epistemological dimensions of AI in geography.
 * **Engage with** latest academic literature through weekly readings and reflections.
 * **Produce** an independent final essay demonstrating synthesis of technical and critical insights.
@@ -31,11 +31,7 @@ We begin with an overview of AI’s evolution and its intersections with geograp
 <summary><b>Readings</b></summary>
 
 1. Li, W., Arundel, S. T., Gao, S., Goodchild, M. F., Hu, Y., Wang, S., & Zipf, A. (2024). GeoAI for science and the science of GeoAI. Journal of Spatial Information Science, (29), 1–25.
-2. Janowicz, K., Sieber, R., & Crampton, J. (2022). GeoAI, counter-AI, and human geography: A conversation. Dialogues in Human Geography, 12(3), 446-458.
-3. GeoAI: Machine Learning and Deep Learning with GIS – [GeoWGS84.com](https://www.geowgs84.com/post/geoai-machine-learning-and-deep-learning-with-gis)
-
-> I need to add a reading that focuses on the technical aspects of machine learning, such as a chapter from a machine learning textbook or a relevant research paper
-> 4. Burkov, A. (2019). The hundred-page machine learning book. Andriy Burkov. https://themlbook.com
+2. Raschka, S., & Mirjalili, V. (2019). Python machine learning: Machine learning and deep learning with Python, scikit-learn, and TensorFlow 2. Packt publishing ltd. Please read [Preface, Chapters 1, 2, 3, 4 and 6](https://learning.oreilly.com/library/view/python-machine-learning/9781789955750/Text/Preface.xhtml). You can access the book online by logging in with your UW email through O'Reilly Learning.
 
 </details>
 
@@ -51,12 +47,8 @@ This week introduces deep learning architectures for interpreting raster imagery
 <summary><b>Readings</b></summary>
 
 1. Zhao, B., Zhang, S., Xu, C., Sun, Y., & Deng, C. (2021). Deep fake geography? When geospatial data encounter Artificial Intelligence. Cartography and Geographic Information Science, 48(4), 338-352.
-2. Lin, Y., & Zhao, B. (2025). Posthuman cartography? Rethinking artificial intelligence, cartographic practices, and reflexivity. Annals of the American Association of Geographers, 115(3), 499-512.
-
-> one reading that focuses on the technical aspects of deep learning, such as a chapter from a deep learning textbook or a relevant research paper
-> notes: Bolei Zhou: place recognition, image classification, and segmentation using CNNs
-> 2. Li & Ning (2023). *Autonomous GIS: The next-generation AI-powered GIS*. IJDE.
-> 1. TorchGeo documentation & tutorial (Microsoft, 2023)
+2. Janowicz, K., Sieber, R., & Crampton, J. (2022). GeoAI, counter-AI, and human geography: A conversation. Dialogues in Human Geography, 12(3), 446-458.
+3. Raschka, S., & Mirjalili, V. (2019). Python machine learning: Machine learning and deep learning with Python, scikit-learn, and TensorFlow 2. Packt publishing ltd. Please read [Chapters 15 & 17](https://learning.oreilly.com/library/view/python-machine-learning/9781789955750/Text/Preface.xhtml). You can access the book online by logging in with your UW email through O'Reilly Learning.
 
 </details>
 
@@ -73,11 +65,9 @@ This week turns to natural language as a mode of spatial analysis. Students expl
 <summary><b>Readings</b></summary>
 
 1. Manvi, R., Khanna, S., Mai, G., Burke, M., Lobell, D., & Ermon, S. (2023). GeoLLM: Extracting geospatial knowledge from large language models. arXiv preprint arXiv:2310.06213. https://arxiv.org/abs/2310.06213
-2. Peng & Zhao (2024). *Navigating the ethical landscape behind ChatGPT*. Big Data & Society.
+2. Lin, Y., & Zhao, B. (2025). Posthuman cartography? Rethinking artificial intelligence, cartographic practices, and reflexivity. Annals of the American Association of Geographers, 115(3), 499-512.
+3. Amaratunga, T. (2023). Understanding large language models: Learning their underlying concepts and technologies. Berkeley, CA: Apress. Please read [the whole book](https://link.springer.com/book/10.1007/979-8-8688-0017-7). You can access the book online by logging in with your UW email through Springer.
 
-> one reading that focuses on the technical aspects of LLMs, such as a chapter from a machine learning textbook or a relevant research paper 
-> 3. OpenAI (2023). *ChatGPT: A large language model for conversational AI*. https://openai.com/research/chatgpt
-> 4. OpenAI (2023). *ChatGPT API documentation*. https://platform.openai.com/docs/api-reference/chat/create
 </details>
 
 Lab 5: [Prompt-to-Map: Using LLMs for Map Generation and Spatial Analysis](labs/lab05)
