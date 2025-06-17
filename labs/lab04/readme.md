@@ -1,6 +1,6 @@
 # Geospatial Segmentation with SAM: Deep Learning for Tree Canopy Detection
 
-**Instructor:** Bo Zhao, [zhaobo@uw.edu](mailto:zhaobo@uw.edu); **Points Available** = 50
+> Bo Zhao | zhaobo@uw.edu | Department of Geographhy, University of Washington - Seattle
 
 This lab introduces students to a geospatial deep learning pipeline using the **Segment Anything Model (SAM)** developed by Meta AI. Students will learn to apply SAM to high-resolution satellite imagery, perform feature segmentation using bounding box prompts, and export both raster and vector results for geospatial analysis.
 

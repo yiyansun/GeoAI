@@ -1,6 +1,6 @@
 # Identifying Homeless Camps Using YOLO
 
-**Instructor:** Bo Zhao, [zhaobo@uw.edu](mailto:zhaobo@uw.edu); **Points Available** = 50
+> Bo Zhao | zhaobo@uw.edu | Department of Geographhy, University of Washington - Seattle
 
 This lab introduces students to object detection using YOLOv8, a state-of-the-art deep learning framework for visual recognition. We apply this tool to a socially sensitive use case: identifying homeless camps from Google Street View imagery. In doing so, students will engage not only with advanced AI workflows but also with critical questions about surveillance, social visibility, and ethical deployment of geospatial technologies.
 

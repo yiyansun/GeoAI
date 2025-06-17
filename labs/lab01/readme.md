@@ -50,4 +50,4 @@ Please export both parts into a **Word document or PDF** and upload to **Canvas*
 
 ## Acknowledgement
 
-This lab is largely built upon Haowei Wei's early contribution. 
+This lab is largely built upon Haowei Wei's early contribution, and later Lewis "Yixiao" Liu helped me testing and editing the script.
