@@ -27,12 +27,12 @@ The course is both reading- and lab-driven, structured to balance technical enga
 We begin with an overview of GeoAI’s evolution and its intersections with geographic thought. Students are introduced to foundational machine learning techniques applied to spatial data using Google Colab. This week sets the tone for the course by situating GeoAI within both technical and critical frameworks.
 
 <details>
-<summary><b>Readings</b></summary>
+<summary><b>Readings, Labs Quiz and Weekly Reflections</b></summary>
 
 1. Li, W., Arundel, S. T., Gao, S., Goodchild, M. F., Hu, Y., Wang, S., & Zipf, A. (2024). GeoAI for science and the science of GeoAI. Journal of Spatial Information Science, (29), 1–25. [💾](readings/wk01/)
 2. Raschka, S., & Mirjalili, V. (2019). Python machine learning: Machine learning and deep learning with Python, scikit-learn, and TensorFlow 2. Packt publishing ltd. Please read Preface, Chapters 1, 2, 3, 4 & 6. You can access the book online by logging in with your UW email through O'Reilly Learning. [💾](https://learning.oreilly.com/library/view/python-machine-learning/9781789955750/Text/Preface.xhtml)
 
-</details>
+Reading Reflection 1 on Li et al.'s paper (2024)
 
 Lab 1: [Predicting Boston Housing Prices Using Machine Learning](labs/lab01/)
 
@@ -40,20 +40,23 @@ Lab 2: [Downscaling Urban Heat of Seattle Using Random Forests](labs/lab02)
 
 Quiz 1 on Machine Learning 
 
-Reading Reflection 1 on Li et al.'s paper (2024)
+
+</details>
 
 ### **Week 2: Place, Space and Deep Learning**
 
 This week introduces deep learning architectures for interpreting raster imagery, focusing on CNNs for classification and segmentation. Students also critically reflect on the politics of computer vision, data labeling, and representation in spatial AI.
 
 <details>
-<summary><b>Readings</b></summary>
+<summary><b>Readings, Labs Quiz and Weekly Reflections</b></summary>
 
 1. Zhao, B., Zhang, S., Xu, C., Sun, Y., & Deng, C. (2021). Deep fake geography? When geospatial data encounter Artificial Intelligence. Cartography and Geographic Information Science, 48(4), 338-352. [💾](readings/wk02/)
 2. Janowicz, K., Sieber, R., & Crampton, J. (2022). GeoAI, counter-AI, and human geography: A conversation. Dialogues in Human Geography, 12(3), 446-458. [💾](readings/wk02/)
 3. Raschka, S., & Mirjalili, V. (2019). Python machine learning: Machine learning and deep learning with Python, scikit-learn, and TensorFlow 2. Packt publishing ltd. Please read Chapters 15 & 17. You can access the book online by logging in with your UW email through O'Reilly Learning. [💾](https://learning.oreilly.com/library/view/python-machine-learning/9781789955750/Text/Preface.xhtml)
 
-</details>
+Reading Reflection 2 on either Zhao et al.'s paper (2021) or Janowicz et al's paper (2022).
+
+
 
 Lab 3: [Using YOLO to Detect Homeless Camps in Seattle Urban Spaces](labs/lab03/)
 
@@ -61,7 +64,7 @@ Lab 4: [Geospatial Segmentation with SAM: Deep Learning for Tree Canopy Detectio
 
 Quiz 2 on Deep Learning 
 
-Reading Reflection 2 on either Zhao et al.'s paper (2021) or Janowicz et al's paper (2022).
+</details>
 
 
 ### **Week 3: Large Language Models for Mapping and Geospatial Reasoning**
@@ -69,13 +72,13 @@ Reading Reflection 2 on either Zhao et al.'s paper (2021) or Janowicz et al's pa
 This week turns to natural language as a mode of spatial analysis. Students explore how LLMs like ChatGPT can perform geocoding, generate maps, and interpret GIS data from text prompts. Discussions center around the promises and limitations of natural language interfaces.
 
 <details>
-<summary><b>Readings</b></summary>
+<summary><b>Readings, Labs Quiz and Weekly Reflections</b></summary>
 
 1. Manvi, R., Khanna, S., Mai, G., Burke, M., Lobell, D., & Ermon, S. (2023). GeoLLM: Extracting geospatial knowledge from large language models. arXiv preprint arXiv:2310.06213. https://arxiv.org/abs/2310.06213 [💾](readings/wk03/)
 2. Lin, Y., & Zhao, B. (2025). Posthuman cartography? Rethinking artificial intelligence, cartographic practices, and reflexivity. Annals of the American Association of Geographers, 115(3), 499-512. [💾](readings/wk03/)
 3. Amaratunga, T. (2023). Understanding large language models: Learning their underlying concepts and technologies. Berkeley, CA: Apress. Please read the whole book. You can access the book online by logging in with your UW email through Springer.[💾](https://link.springer.com/book/10.1007/979-8-8688-0017-7)
 
-</details>
+Reading Reflection 3 on either Lin and Zhao's paper (2025) or Manvi et al.'s paper (2023)
 
 Lab 5: [Prompt-to-Map: Using LLMs for Map Generation and Spatial Analysis](labs/lab05)
 
@@ -83,24 +86,23 @@ Lab 6: [Prompting Geospatial Reasoning: Understanding Space and Place with Gemin
 
 Quiz 3 on Large Language Models
 
-Reading Reflection 3 on either Lin and Zhao's paper (2025) or Manvi et al.'s paper (2023)
+
+</details>
 
 ### **Week 4: A Deep Dive into GeoAI: Hallucinations, Bias, and Sustainability**
 
 We conclude by examining the sociotechnical risks of GeoAI. Students critically assess hallucinations, embedded bias, and environmental impacts of AI. The week culminates in an exploratory lab and final reflection.
 
 <details>
-<summary><b>Readings</b></summary>
+<summary><b>Readings, Labs Quiz and Weekly Reflections</b></summary>
 
 1. Gurnee, W., & Tegmark, M. (2023). Language models represent space and time. arXiv preprint arXiv:2310.02207. [💾](readings/wk04/)
 2. Li, P., Yang, J., Islam, M. A., & Ren, S. (2023). Making ai less" thirsty": Uncovering and addressing the secret water footprint of ai models. arXiv preprint arXiv:2304.03271. [💾](readings/wk04/)
 3. Gillespie (2024). Generative AI and the politics of visibility. Big Data & Society. [💾](readings/wk04/)
 
-</details>
-
 Lab 7: [Critical Exam of GeoAI: Collapse, Hallucination, Bias, and the Limits of Geospatial Intelligence](labs/lab07)
 
-Links to submit your final project
+</details>
 
 ---
 
