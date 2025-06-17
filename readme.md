@@ -106,8 +106,6 @@ Lab 7: [Critical Exam of GeoAI: Collapse, Hallucination, Bias, and the Limits of
 
 ---
 
-## Course Requirements
-
 ### Computational skill
 
 This course welcomes students who some computational experience, or have programmed in a python or javascript IDE (Integrated Development Environment), especially Google CoLab. Students should at least hear of GIS, GitHub, LLMs before considering this course, and most importantly, be self-motivated to solve a research question with the listed computational skills.
