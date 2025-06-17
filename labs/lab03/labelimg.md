@@ -19,7 +19,7 @@ You can save screenshots or download images with recognizable structures like te
 
 LabelImg is a lightweight, open-source tool for manual image annotation. You can install it on your laptop or desktop following the instruction below.
 
-#### Installation (Mac/Linux/Colab VM)
+#### Installation
 
 ```bash
 # Clone the tool
@@ -41,29 +41,47 @@ python labelImg.py
 If the instruction does not work, please follow the instruction on the front page of LabelImg's GitHub Repository: https://github.com/HumanSignal/labelImg .
 
 
-### 📐 3. Annotate "camp" Objects
+### 3. Annotate "camp" Objects
 
-Once LabelImg is open:
+Once LabelImg is open and running, follow these steps to label your images for training:
 
-1. Open the image folder (e.g., `images/train/`)
-2. Choose **YOLO** as the output format (bottom-right selector)
-3. Draw bounding boxes around homeless camps (tents, structures, etc.)
-4. Enter the class name exactly as `camp`
-5. Save the annotations (LabelImg will create `.txt` files in YOLO format)
+1. **Open the image directory**  
+   Click on the folder icon or use the `Open Dir` button to navigate to your training image folder (e.g., `images/train/`).
 
-💡 Each saved label file will contain lines like:
+2. **Select YOLO format**  
+   In the bottom-right corner, ensure that the output format is set to **YOLO**. This ensures that the label files are written in the correct format expected by YOLOv8.
+
+3. **Begin labeling each image**  
+   For each image:
+   - Use your mouse to draw a bounding box around any visible **homeless camp structure**, such as a tent, tarp, shelter, or informal enclosure.
+   - Avoid labeling unrelated items (e.g., cars, poles, people) unless they are part of the structure.
+   - Try to include the entire object within the bounding box, without excess background.
+
+4. **Enter the class name**  
+   When prompted, type in the class name exactly as: `camp`.  
+   If it’s your first time using this name, LabelImg will register it in memory.
+
+5. **Save the label**  
+   Click the save icon or press `Ctrl + S` to save your annotations. LabelImg will create a `.txt` file in the same folder structure, containing bounding box info in YOLO format.
+
+6. **Repeat for all training images**  
+   Continue labeling the rest of your images, one by one. You can use the arrow keys or navigation bar to move between images efficiently.
+
+
+Each saved label file will contain lines like:
 
 ```
 15 0.543 0.674 0.225 0.310
 ```
 
 Where:
-- `15` is the class index for `camp`  
-- Remaining values are normalized `x_center y_center width height`
+- `15` is the class index for `camp` (if other default classes exist, `camp` is often added as class 15)
+- The remaining numbers are normalized values:
+  - `x_center`, `y_center`, `width`, `height`
+  - All are relative to the image dimensions, ranging from 0 to 1
 
-If LabelImg shows multiple class names (e.g., default classes 0–14), your `camp` class may be assigned as class `15`.
+> **Tip:** Double-check that your saved `.txt` label files match your images by name (e.g., `01.jpg` ↔ `01.txt`) and are stored in the corresponding `labels/train/` or `labels/val/` folder.
 
----
 
 ### 4. Organize the Dataset
 
@@ -97,4 +115,4 @@ This ZIP file can now be uploaded to Google Colab and used for YOLOv8 training v
 model.train(data='path/to/custom_data.yaml', ...)
 ```
 
-✅ By following this process, you will have created a full YOLO-compatible dataset for detecting homeless camps in real-world imagery.
+By following this process, you will have created a full YOLO-compatible dataset for detecting homeless camps in real-world imagery.
