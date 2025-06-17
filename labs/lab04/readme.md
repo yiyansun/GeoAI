@@ -45,4 +45,8 @@ Your submission must include **two parts**:
 
 Please export both parts into a **PDF** or **Word document** and upload to **Canvas**.
 
-> **Note:** Lab assignments must be submitted electronically to Canvas by the due date. Late submissions will incur a 10% penalty per day unless prior notice is given for valid reasons such as illness, academic conflicts, or personal emergencies. Flexibility is possible with timely communication, but make-up exams or extensions will only be granted in documented, exceptional cases.
+**Note:** Lab assignments must be submitted electronically to Canvas by the due date. Late submissions will incur a 10% penalty per day unless prior notice is given for valid reasons such as illness, academic conflicts, or personal emergencies. Flexibility is possible with timely communication, but make-up exams or extensions will only be granted in documented, exceptional cases.
+
+#### Acknowledgement
+
+Thanks for Lewis "Yixiao" Liu's early exploration and testing. 
