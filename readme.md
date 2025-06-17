@@ -105,13 +105,13 @@ Lab 7: [Critical Exam of GeoAI: Collapse, Hallucination, Bias, and the Limits of
 
 ---
 
-## 📜 Course Requirements
+## Course Requirements
 
-###  💻 Computational skill
+### Computational skill
 
 This course welcomes students who some computational experience, or have programmed in a python or javascript IDE (Integrated Development Environment), especially Google CoLab. Students should at least hear of GIS, GitHub, LLMs before considering this course, and most importantly, be self-motivated to solve a research question with the listed computational skills.
 
-### 🚀 GitHub
+### GitHub
 
 This course material will be hosted on GitHub instead of UW Canvas. On this dedicated GitHub repository for this course, you can find most of the course material, participate in group discussions by submitting GitHub issues, and creating new GitHub repositories to turn in practical exercise deliverables. By the end of this quarter, you will be more proficient in operating a cloud-based coding environment and able to host your work online as a way to gain public and peer attentions.
 
@@ -125,7 +125,7 @@ There will be **three short quizzes** administered throughout the course to asse
 
 These quizzes are **open-note**, **untimed**, and designed to be approachable. They will include a mix of multiple-choice, short answer, and code interpretation questions, but **will not require advanced mathematics**. The primary goal is not to test memorization or complex calculations, but to help you **solidify a general understanding** of how machine learning, deep learning, and LLMs work in the context of geospatial data. Think of them as low-stakes checkpoints that prepare you for more hands-on, applied lab work in later weeks.
 
-### 🧪 Lab Exercises
+### Lab Exercises
 
 Over the course of four weeks, students are required to complete **four out of seven total hands-on lab assignments**. Each lab focuses on applying machine learning, deep learning, or large language models (LLMs) to geospatial data, using **Google Colab** as the development environment. All labs involve writing and executing Python code. Your code should be **clearly organized, well-commented, and fully reproducible**. Final versions of your labs must be submitted via **GitHub**, accompanied by a short `README` file that explains the **objective**, **approach**, and **key outcomes** of your work. To allow for flexibility while ensuring coverage of core topics, you will follow this structure:
 
@@ -136,10 +136,9 @@ Over the course of four weeks, students are required to complete **four out of s
 
 These labs are designed not only to build technical proficiency, but also to promote **critical reflection** on the design, application, and implications of GeoAI methods.
 
-> 💡 **Tip:** Treat each lab as both a technical experiment and a space for critical thinking—consider not just *how* the models work, but *why* they matter in geographic contexts.
+💡 **Tip:** Treat each lab as both a technical experiment and a space for critical thinking—consider not just *how* the models work, but *why* they matter in geographic contexts.
 
-
-### 👩‍🔬 Reading Reflection
+### Reading Reflection
 
 Your weekly reading reflection should be at least **350 words** in length and must **critically engage with the specific paper(s) assigned for that week**. The required papers are clearly listed in the course schedule—please make sure your reflection is centered on those. There is no fixed structure you must follow—feel free to experiment with tone and format—but ensure your writing is clear, well-organized, and free of typos. Be sure to cite your sources appropriately. 
 
@@ -152,11 +151,13 @@ Here are some suggestions to help guide your writing:
 - Focus on intellectual engagement with the text rather than personal feelings. Whether you liked the reading is secondary to what you learned or questioned.
 - Draw connections between the readings and broader course themes, and most importantly, explore your own critical ideas about the assigned paper(s).
 
-### ✍️ Final Essay
+### Final Essay
 
 The final essay is due at the end of **Week 4** and should be between **2,500 and 3,000 words** (not exceeding 5,000 words in total). This assignment functions as a **research proposal**, where you synthesize technical skills with critical reflection to explore a topic related to GeoAI.
 
-You are encouraged to select a theme that draws from course content—such as hallucinations in large language models applied to spatial data, a critical evaluation of GeoAI in disaster response, or the environmental impacts of AI models. The essay must incorporate **at least two technical sources and two critical sources**, which can come from the course readings or your own independent research. While preliminary results are welcome, they are **not required**. What we are primarily looking for is a **thoughtful, well-structured proposal** that demonstrates:
+You are encouraged to choose either a proposal topic that critically investigates **GeoAI technologies themselves** (e.g., hallucinations in LLMs applied to spatial data, model bias, or AI's environmental footprint); **or** A project that uses **GeoAI methods to study a broader social, environmental, or spatial issue**, where you also reflect on the implications and challenges of applying AI to that issue. In either case, the goal is to demonstrate your ability to combine technical application with critical inquiry. The essay must incorporate **at least two technical sources and two critical sources**, which can come from course readings or your own independent research.
+
+While preliminary results are welcome, they are **not required**. What we are primarily looking for is a **thoughtful, well-structured proposal** that includes:
 
 - A **clear research question or problem statement**
 - A plan for **data collection** (what data, how to obtain it, and why it's appropriate)
@@ -166,49 +167,47 @@ You are encouraged to select a theme that draws from course content—such as ha
 
 This essay is not just about applying a method, but about showing how you understand and contextualize that method within real-world geographic, social, or environmental challenges.
 
-> 💡 **Tip:** Think of this as a space to integrate your lab experiences, course readings, and original ideas into a project that could be pursued further beyond the class.
-
-
-### 📊 Evaluation
+### Evaluation
 
 | Component               | Weight |
 | ----------------------- | ------ |
 | Lab Assignments (4)     | 40%    |
 | Final Essay             | 25%    |
-| Reading Reflections (3) | 25%    |
-| Quizzes (3)             | 10%    |
+| Reading Reflections (3) | 26%    |
+| Quizzes (3)             |  9%    |
 
 
-## :notebook_with_decorative_cover: Equity & Inclusivity
+### Equity & Inclusivity
 
 Our very highest priorities include creating a brave and supportive class environment where each of us contributes, we can ask big questions, we give and receive critiques in a supportive way, we notice and engage the ways that we are differently situated within past and present relationship of power, privilege and oppression. I invite you to think hard about how race, gender identity, religion, age, citizenship status, first language, ability, sexuality, class, and other axes are at work in our interactions, and what this might mean in terms of when to speak up, when to step back, how to listen, and much more. Each of you is a welcome and invaluable part of our collective whole.
 
-## :love_letter: Disability Accommodations
+### Disability Accommodations
 
 We welcome the opportunity to work with any students with disabilities in this class to ensure equal access to the course. If you have a letter from Disability Resources for Students (DRS) outlining your academic accommodations, please present the letter to me (or email us, to confirm, if the letter is electronic) as soon as possible so that we can discuss the accommodations you may need for this class. Any discussions between student and professor need to occur as early as possible in order for adequate arrangements to be made. If you do not yet have a letter from DRS, but would like to request academic accommodations due to a disability, please contact DRS [here)](https://depts.washington.edu/uwdrs/), or in-person at 011 Mary Gates Hall, or at 206-543-8924 (Voice & Relay), [uwdrs@uw.edu](mailto:uwdrs@uw.edu).
 
-## :mosque:  Religious Accommodations
+### Religious Accommodations
 
 Washington state law requires that UW develop a policy for accommodation of student absences or significant hardship due to reasons of faith or conscience, or for organized religious activities. The UW’s policy, including more information about how to request an accommodation, is available at [Religious Accommodations Policy](https://registrar.washington.edu/staffandfaculty/religious-accommodations-policy/). Accommodations must be requested within the first two weeks of this course using the [Religious Accommodations Request form](https://https:/registrar.washington.edu/students/religious-accommodations-request/).
 
-## :memo:  Student Care & Safety
+### Student Care & Safety
 
 It is important that you take care of yourselves inside and outside of class as you work through stress and other obstacles. There are many different support services on campus that can help, such as the Counseling Center, Hall Health, and the IMA. UW’s Student Care program can help you connect to these and other resources. Learn more an contact them directly: http://depts.washington.edu/livewell/student-care/, livewell@uw.edu, or 206.543.6085. If you are concerned about yourself or a friend who is struggling SafeCampus is a helpful resource. Please add 206.685.7233 to your phones.
 
-## :book: Acknowledgement
+### Acknowledgement
 
-<a href="https://hgis.uw.edu"><img src="res/logo.png" align="right" width="200px" target="_blank" /></a> This course advocates for the open culture. The course materials are open source for both students and open source community to access. The development of this course was inspired and supported by many generous colleagues and students. I would like to thank Professor Yue Lin (University of Illinois Urbana-Champaign) for their valuable insights. I’m also grateful to Yifan Yang, Haowen Wei, and Haowei Tong who contributed to early explorations with Syllabus and the initial shape of this course during Summer 2024.
+<a href="https://hgis.uw.edu"><img src="res/logo.png" align="right" width="200px" target="_blank" /></a> This course advocates for the open culture. The course materials are open source for both students and open source community to access. The development of this course was inspired and supported by many generous colleagues and students. I would like to thank Professor Yue Lin (University of Illinois Urbana-Champaign) for their valuable insights. I’m also grateful to Yifan Yang, Haowen Wei, and Tongwei Xu who contributed to early explorations with Syllabus and the initial shape of this course during Summer 2024.
 
 `© 2019-2025 All rights are reserved by Bo Zhao.`
 
 
 
-1. Intro video.
+X2. 4 labs in total, pick one among 1 and 2, pick one among 3 and 4, etc.
+X3. reading piece must be about the papers. 
+X4. final paper: research proposal.
+X7. a google colab tutorial
 
-2. 4 labs in total, pick one among 1 and 2, pick one among 3 and 4, etc.
-3. reading piece must be about the papers. 
-4. final paper: research proposal.
+1. Intro video.
 5. revise the lab questions a bit.
 6. update the canvas.
-7. a google colab tutorial
+
 
