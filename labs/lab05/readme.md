@@ -1,6 +1,6 @@
 # Prompt-to-Map: Using LLMs for Map Generation and Spatial Analysis
 
-> Bo Zhao | zhaobo@uw.edu | Department of Geographhy, University of Washington - Seattle
+**Instructor:** Bo Zhao, [zhaobo@uw.edu](mailto:zhaobo@uw.edu); **Points Available** = 10
 
 This lab introduces students to a novel geospatial workflow where **large language models (LLMs)** serve as natural language interfaces for map creation and spatial analysis. Instead of coding from scratch, students write **textual prompts** that guide the AI to generate code, extract spatial data, and interpret geospatial patterns.  
 

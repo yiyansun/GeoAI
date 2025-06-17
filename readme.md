@@ -1,8 +1,9 @@
 # **GEOG495: Geospatial Artificial Intelligence**
 
-- **Instructor:** Bo Zhao, zhaobo@uw.edu <img src="res/geoai.png" align="right" width="36%" target="_blank" />  
-- **Meeting Time:** Asynchronous
-- **Office Hours:** Available by Appointment or via Zoom: https://t.ly/kpj_t
+- **Instructor:** Bo Zhao, zhaobo@uw.edu, Office Hours: Available by Appt or via Zoom: https://t.ly/kpj_t <img src="res/geoai.png" align="right" width="36%" target="_blank" /> 
+- **Teaching Assistant:** Liz Peng, lp36@uw.edu, Office Hours: TBD
+- **Meeting Time:** Asynchronous Online
+
 
 This course explores the emerging field of Geospatial Artificial Intelligence (GeoAI), focusing on the integration of machine learning, deep learning, and large language models (LLMs) in the context of geographic data. Students will engage both technically and critically with the tools and concepts shaping the future of spatial and placial analysis. This crush course emphasizes hands-on lab experimentation, paper-driven learning, and critical reflection on the social and epistemological implications of AI-powered geospatial technologies.
 
@@ -115,7 +116,7 @@ This course welcomes students who some computational experience, or have program
 
 This course material will be hosted on GitHub instead of UW Canvas. On this dedicated GitHub repository for this course, you can find most of the course material, participate in group discussions by submitting GitHub issues, and creating new GitHub repositories to turn in practical exercise deliverables. By the end of this quarter, you will be more proficient in operating a cloud-based coding environment and able to host your work online as a way to gain public and peer attentions.
 
-### 🧾 Quizzes
+### Quizzes
 
 There will be **three short quizzes** administered throughout the course to assess your foundational understanding of key GeoAI concepts. Each quiz aligns with the major technical focus of the corresponding week:
 

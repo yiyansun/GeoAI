@@ -1,6 +1,6 @@
 # Downscaling Urban Heat of Seattle Using Random Forests
 
-> Bo Zhao | zhaobo@uw.edu | Department of Geographhy, University of Washington - Seattle
+**Instructor:** Bo Zhao, [zhaobo@uw.edu](mailto:zhaobo@uw.edu); **Points Available** = 10
 
 This lab introduces students to a progressive modeling workflow for **downscaling coarse-resolution land surface temperature (LST)** to finer spatial scales in the Seattle metropolitan area using satellite data and machine learning.  
 By using **Google Earth Engine**, **Sentinel-2 imagery**, and **Landsat 8 LST products**, students will explore how vegetation, built-up surfaces, and geographic context influence urban heat patterns.

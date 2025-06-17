@@ -1,6 +1,6 @@
 # Critical Exam of GeoAI: Collapse, Hallucination, Bias, and the Limits of Geospatial Intelligence
 
-> Bo Zhao | zhaobo@uw.edu | Department of Geographhy, University of Washington - Seattle
+**Instructor:** Bo Zhao, [zhaobo@uw.edu](mailto:zhaobo@uw.edu); **Points Available** = 10
 
 This lab offers a critical and technical investigation into the spatial reasoning capacities and failures of large language models (LLMs), using Gemini to geocode addresses in Seattle. Students will analyze how hallucinations, semantic collapse, and social biases emerge through LLM-generated g deospatial data, and reflect on the epistemological limits of AI-powered spatial intelligence.
 

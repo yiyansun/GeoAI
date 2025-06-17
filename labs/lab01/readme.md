@@ -1,6 +1,6 @@
 # Predicting Boston Housing Prices Using Machine Learning
 
-**Instructor:** Bo Zhao, [zhaobo@uw.edu](mailto:zhaobo@uw.edu); **Points Available** = 50
+**Instructor:** Bo Zhao, [zhaobo@uw.edu](mailto:zhaobo@uw.edu); **Points Available** = 10
 
 This lab introduces students to a full machine learning pipeline for predicting housing prices using the classic Boston Housing Dataset. Students will learn to apply and compare multiple regression models while reflecting on the social structures embedded in housing data.
 
