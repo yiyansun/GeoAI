@@ -1,4 +1,4 @@
-# **GEOG495: Geospatial Artificial Intelligence** 
+# **GEOG495: Geospatial Artificial Intelligence**
 
 - **Instructor:** Bo Zhao, zhaobo@uw.edu <img src="res/geoai.png" align="right" width="30%" target="_blank" />  
 - **Meeting Time:** Asynchronous
