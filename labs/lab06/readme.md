@@ -1,6 +1,8 @@
 # Prompting Geospatial Reasoning: Understanding Space and Place with Gemini
 
-**Instructor:** Bo Zhao, [zhaobo@uw.edu](mailto:zhaobo@uw.edu); **Points Available** = 10
+- **Instructor:** Bo Zhao, [zhaobo@uw.edu](mailto:zhaobo@uw.edu); 
+- **Teaching Assistant:** Liz Peng, lp36@uw.edu
+- **Points Available** = 10
 
 This lab explores how large language models (LLMs)—specifically Google Gemini—can be prompted to extract geospatial and semantic information from narrative texts. You will analyze a walking tour chapter of Seattle's Capitol Hill and generate structured location data that includes not only names and coordinates, but also cultural and emotional attributes such as sense of place and rhetorical framing.
 
