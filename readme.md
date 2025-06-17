@@ -57,7 +57,6 @@ This week introduces deep learning architectures for interpreting raster imagery
 Reading Reflection 2 on either Zhao et al.'s paper (2021) or Janowicz et al's paper (2022).
 
 
-
 Lab 3: [Using YOLO to Detect Homeless Camps in Seattle Urban Spaces](labs/lab03/)
 
 Lab 4: [Geospatial Segmentation with SAM: Deep Learning for Tree Canopy Detection](labs/lab04/)
@@ -118,26 +117,57 @@ This course material will be hosted on GitHub instead of UW Canvas. On this dedi
 
 ### 🧾 Quizzes
 
-There will be three short quizzes administered during the course to assess students’ foundational understanding of key technical concepts. These quizzes are designed to reinforce core material covered in lectures, readings, and lab work—such as machine learning workflows, deep learning architectures, spatial data structures, and the capabilities and limitations of large language models in geospatial contexts. The quizzes will be open-note, unlimited time, and may include a mix of multiple choice, short answer, and code interpretation questions. While they are not meant to be high-stakes, the quizzes serve as checkpoints to help students consolidate knowledge and ensure readiness for more advanced lab applications.
+There will be **three short quizzes** administered throughout the course to assess your foundational understanding of key GeoAI concepts. Each quiz aligns with the major technical focus of the corresponding week:
+
+- **Week 1 Quiz:** Focuses on **machine learning fundamentals**, especially as introduced in the technical reading from *The Hundred-Page Machine Learning Book*.
+- **Week 2 Quiz:** Covers **deep learning basics**, guided by the technical content in the assigned deep learning reading.
+- **Week 3 Quiz:** Centers on the core concepts behind **large language models (LLMs)**, drawing from technical materials such as the ChatGPT documentation and research overview.
+
+These quizzes are **open-note**, **untimed**, and designed to be approachable. They will include a mix of multiple-choice, short answer, and code interpretation questions, but **will not require advanced mathematics**. The primary goal is not to test memorization or complex calculations, but to help you **solidify a general understanding** of how machine learning, deep learning, and LLMs work in the context of geospatial data. Think of them as low-stakes checkpoints that prepare you for more hands-on, applied lab work in later weeks.
 
 ### 🧪 Lab Exercises
 
-Students are required to complete four of the seven hands-on lab assignments over the course of four weeks. All labs will be conducted using Google Colab and will focus on applying machine learning, deep learning, and large language models to geospatial data. Each lab involves writing and executing Python code, and students must ensure that their code is clearly organized, well-commented, and reproducible. Final versions of each lab should be submitted via GitHub, along with a short README file explaining the objective, approach, and key outcomes. These labs are designed not only to build technical skills, but also to encourage critical reflection on the design and use of GeoAI methods.
+Over the course of four weeks, students are required to complete **four out of seven total hands-on lab assignments**. Each lab focuses on applying machine learning, deep learning, or large language models (LLMs) to geospatial data, using **Google Colab** as the development environment. All labs involve writing and executing Python code. Your code should be **clearly organized, well-commented, and fully reproducible**. Final versions of your labs must be submitted via **GitHub**, accompanied by a short `README` file that explains the **objective**, **approach**, and **key outcomes** of your work. To allow for flexibility while ensuring coverage of core topics, you will follow this structure:
+
+- **Week 1:** Complete **either Lab 1 or Lab 2**
+- **Week 2:** Complete **either Lab 3 or Lab 4**
+- **Week 3:** Complete **either Lab 5 or Lab 6**
+- **Week 4:** Complete **Lab 7 (required)**
+
+These labs are designed not only to build technical proficiency, but also to promote **critical reflection** on the design, application, and implications of GeoAI methods.
+
+> 💡 **Tip:** Treat each lab as both a technical experiment and a space for critical thinking—consider not just *how* the models work, but *why* they matter in geographic contexts.
+
 
 ### 👩‍🔬 Reading Reflection
 
-Your weekly think pieces should be at least 350 words in length and should engage critically with the week’s readings**. There is no right or wrong way to write a think piece and you should feel free to experiment, but ensure that you are citing your sources and that your piece is clear and free of any typos. Below are some additional suggestions/guiding thoughts to help shape your piece.
+Your weekly reading reflection should be at least **350 words** in length and must **critically engage with the specific paper(s) assigned for that week**. The required papers are clearly listed in the course schedule—please make sure your reflection is centered on those. There is no fixed structure you must follow—feel free to experiment with tone and format—but ensure your writing is clear, well-organized, and free of typos. Be sure to cite your sources appropriately. 
 
-- Though your think piece doesn’t need to follow a formal essay structure, organization, content, and clarity is still important.
-- Don’t merely summarize. Develop your own thoughts and reflections in connection to the readings and the lab assignments.
-- Lead your reader somewhere beyond the simple observation; in other words, make a point or several points and examine them in depth.
-- Use examples and quotations from the assigned text to support what you say. Effective quotations make the piece stronger and more convincing.
-- Use this assignment to express more than how you “feel” about the text or problem. Whether you liked the text or not is relevant but should not be the central focus of your think piece.
-- Make connections between the assigned text and the course content and above all, explore your own ideas and thoughts about the assigned text; after all, that is the point of the assignment.
+Here are some suggestions to help guide your writing:
+
+- While a formal essay structure isn’t necessary, clarity, coherence, and a clear point of view are essential.
+- Avoid merely summarizing the text. Instead, develop your own insights and connect them to both the readings and the week’s lab activities.
+- Go beyond surface-level observations. Aim to make one or more well-developed arguments or reflections.
+- Use examples and direct quotations from the readings to support your points. Well-chosen quotes can strengthen your analysis.
+- Focus on intellectual engagement with the text rather than personal feelings. Whether you liked the reading is secondary to what you learned or questioned.
+- Draw connections between the readings and broader course themes, and most importantly, explore your own critical ideas about the assigned paper(s).
 
 ### ✍️ Final Essay
 
-The final essay is due at the end of Week 4 and should be between 2,500 and 3,000 words, not exceeding 5,000 words in total. Students are expected to choose a topic related to the course—such as hallucinations in large language models when applied to spatial data, a critical evaluation of GeoAI in disaster response, or the environmental impact of AI models. The essay must incorporate at least two technical sources and two critical sources, either drawn from the course materials or from independent research.
+The final essay is due at the end of **Week 4** and should be between **2,500 and 3,000 words** (not exceeding 5,000 words in total). This assignment functions as a **research proposal**, where you synthesize technical skills with critical reflection to explore a topic related to GeoAI.
+
+You are encouraged to select a theme that draws from course content—such as hallucinations in large language models applied to spatial data, a critical evaluation of GeoAI in disaster response, or the environmental impacts of AI models. The essay must incorporate **at least two technical sources and two critical sources**, which can come from the course readings or your own independent research. While preliminary results are welcome, they are **not required**. What we are primarily looking for is a **thoughtful, well-structured proposal** that demonstrates:
+
+- A **clear research question or problem statement**
+- A plan for **data collection** (what data, how to obtain it, and why it's appropriate)
+- The **methods or models** you propose to use (e.g., random forests, CNNs, LLMs)
+- An outline of how you intend to perform **evaluation and validation**
+- A section on **critical reflection**: What social, ethical, or epistemological implications does your project raise?
+
+This essay is not just about applying a method, but about showing how you understand and contextualize that method within real-world geographic, social, or environmental challenges.
+
+> 💡 **Tip:** Think of this as a space to integrate your lab experiences, course readings, and original ideas into a project that could be pursued further beyond the class.
+
 
 ### 📊 Evaluation
 
@@ -163,7 +193,7 @@ Washington state law requires that UW develop a policy for accommodation of stud
 
 ## :memo:  Student Care & Safety
 
-It is important that you take care of yourselves inside and outside of class as you work through stress and other obstacles. There are many different support services on campus that can help, such as the Counseling Center, Hall Health, and the IMA. UW’s Student Care program can help you connect to these and other resources. Learn more an contact them directly: http://depts.washington.edu/livewell/student-care/, livewell@uw.edu, or 206.543.6085. If you are concerned about yourself or a friend who is struggling SafeCampus is a helpful resource. Please add 206.685.7233 to your phones
+It is important that you take care of yourselves inside and outside of class as you work through stress and other obstacles. There are many different support services on campus that can help, such as the Counseling Center, Hall Health, and the IMA. UW’s Student Care program can help you connect to these and other resources. Learn more an contact them directly: http://depts.washington.edu/livewell/student-care/, livewell@uw.edu, or 206.543.6085. If you are concerned about yourself or a friend who is struggling SafeCampus is a helpful resource. Please add 206.685.7233 to your phones.
 
 ## :book: Acknowledgement
 
@@ -174,6 +204,7 @@ It is important that you take care of yourselves inside and outside of class as 
 
 
 1. Intro video.
+
 2. 4 labs in total, pick one among 1 and 2, pick one among 3 and 4, etc.
 3. reading piece must be about the papers. 
 4. final paper: research proposal.
