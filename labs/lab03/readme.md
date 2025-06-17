@@ -1,137 +1,56 @@
 # Identifying Homeless Camps Using YOLO
 
-**Instructor:** Bo Zhao, [zhaobo@uw.edu](mailto:zhaobo@uw.edu), **Points Available** = 50
+**Instructor:** Bo Zhao, [zhaobo@uw.edu](mailto:zhaobo@uw.edu); **Points Available** = 50
 
-This lab introduces students to the use of **deep learning for geospatial object detection** using the YOLOv8 model. You will start by exploring the results of a pretrained YOLO model and then proceed to **fine-tune a model** using your own annotated dataset to detect a novel class: **"camp"** — referring to **homeless camps** such as tents or makeshift shelters in urban environments.
+This lab introduces students to object detection using YOLOv8, a state-of-the-art deep learning framework for visual recognition. We apply this tool to a socially sensitive use case: identifying homeless camps from Google Street View imagery. In doing so, students will engage not only with advanced AI workflows but also with critical questions about surveillance, social visibility, and ethical deployment of geospatial technologies.
 
-The lab also critically engages with the ethical implications of applying automated detection systems to socially sensitive phenomena.
+The project blends technical practice with reflective thinking: students train a custom model, compare detection performance, and critically examine the societal implications of automating visibility.
 
 You will:
 
-- Run a pretrained YOLOv8 model on urban imagery
-- Annotate and prepare a training dataset using LabelImg
-- Fine-tune YOLOv8 on the "camp" class
-- Reflect on the **risks and benefits** of using deep learning to recognize **homeless camps**
+* Use a pretrained YOLOv8 model to perform object detection
+* Annotate street-level imagery using LabelImg and generate a YOLO-compatible dataset
+* Train a custom YOLOv8 model to recognize “camp” structures
+* Visualize and compare detection results before and after training
+* Map predictions by extracting GPS coordinates from filenames
+* Reflect on the consequences of using deep learning to identify vulnerable populations
 
-> **Guiding question:** How can deep learning models like YOLO shape — and perhaps distort — our understanding of spatial visibility, homelessness, and social intervention?
+> **Guiding question:** What does it mean to automate the detection of social marginality?
 
----
-
-Click this button to launch the full lab in Colab:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E2WRix3C_BtaJYuaWitYtG4aqP9jra5P?usp=sharing)
-
-
-## 🧠 Background
-
-YOLO (You Only Look Once) is a family of real-time object detection models based on convolutional neural networks (CNNs). YOLOv8, developed by Ultralytics, improves detection accuracy and speed across a variety of applications. In this lab, we apply YOLO to a **socially fraught detection problem** — identifying **homeless camps** from aerial or street-level imagery.
-
-This task raises critical questions:  
-- Who defines what is “visible” in the urban landscape?  
-- What are the consequences of making certain populations hyper-visible through AI?
+Click this button to launch the full lab on Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E2WRix3C_BtaJYuaWitYtG4aqP9jra5P)
 
 
-## 🧰 Steps for Model Training
 
-### 1. Install YOLOv8
+### Coding Experiments:
 
-```bash
-pip install ultralytics
-```
+Try one or more of the following in your notebook:
 
-Then in Python:
-
-```python
-from ultralytics import YOLO
-```
-
----
-
-### 2. Annotate Training Data
-
-1. Clone the annotation tool:
-   ```bash
-   git clone https://github.com/HumanSignal/labelImg.git
-   cd labelImg
-   python -m venv venv
-   source venv/bin/activate  # Windows use: venv\Scripts\activate
-   pip install pyqt5 lxml
-   pyrcc5 -o libs/resources.py resources.qrc
-   python labelImg.py
-   ```
-
-2. Create bounding boxes for **"camp"** objects representing **homeless camps**. Save the labels in YOLO format.
-
-3. Your dataset structure should look like:
-
-```
-homelesscamp_data/
-├── images/
-│   ├── train/
-│   └── val/
-└── labels/
-    ├── train/
-    └── val/
-```
+* Run inference using the pretrained YOLOv8n model. What does it detect?
+* Fine-tune your model using custom “camp” annotations. Compare the results.
+* Adjust the number of epochs, batch size, or input image resolution. How does performance change?
+* Visualize prediction results on an interactive map using Folium.
+* Try predicting on new Street View locations not in the training set.
 
 
-### 3. Configure the Dataset
 
-Create a YAML file (`custom_data.yaml`) with the following content:
+### Written Reflection:
 
-```yaml
-path: /content/dataset/homelesscamp_data
-train: images/train
-val: images/val
-nc: 1
-names: ['camp']
-```
+At the end of your lab, please answer **at least two** of the following prompts (300–500 words total):
 
-
-### 4. Train the Model
-
-```python
-model = YOLO('yolov8n.pt')  # Lightweight version
-model.train(data='custom_data.yaml', epochs=70, imgsz=640, batch=4)
-```
-
-The best-performing weights will be saved in:
-
-```
-runs/detect/train/weights/best.pt
-```
-
----
-
-### 5. Run Inference on Test Images
-
-```python
-model = YOLO('runs/detect/train/weights/best.pt')
-results = model('path_to_test_image.jpg')
-results[0].show()
-```
-
-Compare results between the **pretrained model** and your **fine-tuned model**.
-
-
-## ✍️ Written Reflection
-
-At the end of your lab, please respond to **at least two** of the following questions (300–500 words total):
-
-1. How does YOLOv8’s deep learning architecture allow it to detect objects like **homeless camps**?  
-2. What are the risks of training AI models to detect socially sensitive features such as **homeless camps**?  
-3. What are the potential benefits of such detection? Who might benefit?  
-4. What limitations did you notice in how the model performed, either before or after fine-tuning?
+1. What differences did you observe between pretrained and fine-tuned detection?
+2. How well can your trained model generalize to new contexts?
+3. What are the key limitations and opportunities of using deep learning in this task?
+4. What ethical concerns arise from detecting homeless encampments with AI?
+5. How would public mapping of these features—e.g., via OpenStreetMap—impact real people?
 
 
 ## ✅ Deliverables
 
-Your lab submission must include:
+Your submission must include **two parts**:
 
-1. **Colab Notebook** with detection results from both the pretrained and custom-trained models.
-2. **Annotated images** before and after fine-tuning.
-3. **Written reflection** (as markdown cell or attached doc/PDF).
+1. **Coding Experiments:** Annotated code cells, results, and map visualizations.
+2. **Written Reflection:** A short critical write-up based on the questions above.
 
-Upload your submission to **Canvas** by the due date.
+Please export both parts into a **Word document or PDF** and upload to **Canvas**.
 
-> **Late Policy:** 10% penalty per day unless prior approval granted for valid reasons (illness, emergency, academic conflict).
-
+**Note:** Lab assignments must be submitted electronically to Canvas by the due date. Late submissions will incur a 10% penalty per day unless prior notice is given for valid reasons such as illness, academic conflicts, or personal emergencies. Flexibility is possible with timely communication, but make-up exams or extensions will only be granted in documented, exceptional cases.
