@@ -2,7 +2,7 @@
 
 - **Instructor:** Bo Zhao, zhaobo@uw.edu <img src="res/geoai.png" align="right" width="30%" target="_blank" />  
 - **Meeting Time:** Asynchronous
-- **Office Hours:** Available by appt or via Zoom: https://t.ly/kpj_t
+- **Office Hours:** Available by Appointment or via Zoom: https://t.ly/kpj_t
 
 This course explores the emerging field of Geospatial Artificial Intelligence (GeoAI), focusing on the integration of machine learning, deep learning, and large language models (LLMs) in the context of geographic data. Students will engage both technically and critically with the tools and concepts shaping the future of spatial and placial analysis. This crush course emphasizes hands-on lab experimentation, paper-driven learning, and critical reflection on the social and epistemological implications of AI-powered geospatial technologies.
 
@@ -17,13 +17,12 @@ The class is reading- and lab-driven. Each week begins with a selection of the a
 * **Produce** an independent final essay demonstrating synthesis of technical and critical insights.
 
 > This web page is the syllabus - There is no printed version, please refer here instead. Make sure refer to this page as often as possible. Also, Feel free to ask the instructor for clarifications whenever needed.
+
 ---
 
 ## 📚 Weekly Schedule
 
 Each week includes approximately three readings, two lab sessions, and one reading reflection. All assigned readings are available in the readings folder of this GitHub repository.
-
-
 
 ### **Week 1: Introduction & Machine Learning for Spatial Data**
 
@@ -32,7 +31,7 @@ We begin with an overview of AI’s evolution and its intersections with geograp
 <details>
 <summary><b>Readings</b></summary>
 
-1. Li, W., Arundel, S. T., Gao, S., Goodchild, M. F., Hu, Y., Wang, S., & Zipf, A. (2024). GeoAI for science and the science of GeoAI. Journal of Spatial Information Science, (29), 1–25.
+1. Li, W., Arundel, S. T., Gao, S., Goodchild, M. F., Hu, Y., Wang, S., & Zipf, A. (2024). GeoAI for science and the science of GeoAI. Journal of Spatial Information Science, (29), 1–25. [💾](readings/wk01/)
 2. Raschka, S., & Mirjalili, V. (2019). Python machine learning: Machine learning and deep learning with Python, scikit-learn, and TensorFlow 2. Packt publishing ltd. Please read [Preface, Chapters 1, 2, 3, 4 and 6](https://learning.oreilly.com/library/view/python-machine-learning/9781789955750/Text/Preface.xhtml). You can access the book online by logging in with your UW email through O'Reilly Learning.
 
 </details>
@@ -48,8 +47,8 @@ This week introduces deep learning architectures for interpreting raster imagery
 <details>
 <summary><b>Readings</b></summary>
 
-1. Zhao, B., Zhang, S., Xu, C., Sun, Y., & Deng, C. (2021). Deep fake geography? When geospatial data encounter Artificial Intelligence. Cartography and Geographic Information Science, 48(4), 338-352.
-2. Janowicz, K., Sieber, R., & Crampton, J. (2022). GeoAI, counter-AI, and human geography: A conversation. Dialogues in Human Geography, 12(3), 446-458.
+1. Zhao, B., Zhang, S., Xu, C., Sun, Y., & Deng, C. (2021). Deep fake geography? When geospatial data encounter Artificial Intelligence. Cartography and Geographic Information Science, 48(4), 338-352. [💾](readings/wk02/)
+2. Janowicz, K., Sieber, R., & Crampton, J. (2022). GeoAI, counter-AI, and human geography: A conversation. Dialogues in Human Geography, 12(3), 446-458. [💾](readings/wk02/)
 3. Raschka, S., & Mirjalili, V. (2019). Python machine learning: Machine learning and deep learning with Python, scikit-learn, and TensorFlow 2. Packt publishing ltd. Please read [Chapters 15 & 17](https://learning.oreilly.com/library/view/python-machine-learning/9781789955750/Text/Preface.xhtml). You can access the book online by logging in with your UW email through O'Reilly Learning.
 
 </details>
@@ -66,8 +65,8 @@ This week turns to natural language as a mode of spatial analysis. Students expl
 <details>
 <summary><b>Readings</b></summary>
 
-1. Manvi, R., Khanna, S., Mai, G., Burke, M., Lobell, D., & Ermon, S. (2023). GeoLLM: Extracting geospatial knowledge from large language models. arXiv preprint arXiv:2310.06213. https://arxiv.org/abs/2310.06213
-2. Lin, Y., & Zhao, B. (2025). Posthuman cartography? Rethinking artificial intelligence, cartographic practices, and reflexivity. Annals of the American Association of Geographers, 115(3), 499-512.
+1. Manvi, R., Khanna, S., Mai, G., Burke, M., Lobell, D., & Ermon, S. (2023). GeoLLM: Extracting geospatial knowledge from large language models. arXiv preprint arXiv:2310.06213. https://arxiv.org/abs/2310.06213 [💾](readings/wk03/)
+2. Lin, Y., & Zhao, B. (2025). Posthuman cartography? Rethinking artificial intelligence, cartographic practices, and reflexivity. Annals of the American Association of Geographers, 115(3), 499-512. [💾](readings/wk03/)
 3. Amaratunga, T. (2023). Understanding large language models: Learning their underlying concepts and technologies. Berkeley, CA: Apress. Please read [the whole book](https://link.springer.com/book/10.1007/979-8-8688-0017-7). You can access the book online by logging in with your UW email through Springer.
 
 </details>
@@ -84,9 +83,9 @@ We conclude by examining the sociotechnical risks of GeoAI. Students critically 
 <details>
 <summary><b>Readings</b></summary>
 
-1. Gurnee, W., & Tegmark, M. (2023). Language models represent space and time. arXiv preprint arXiv:2310.02207.
-2. Li, P., Yang, J., Islam, M. A., & Ren, S. (2023). Making ai less" thirsty": Uncovering and addressing the secret water footprint of ai models. arXiv preprint arXiv:2304.03271.
-3. Gillespie (2024). *Generative AI and the politics of visibility*. Big Data & Society.
+1. Gurnee, W., & Tegmark, M. (2023). Language models represent space and time. arXiv preprint arXiv:2310.02207. [💾](readings/wk04/)
+2. Li, P., Yang, J., Islam, M. A., & Ren, S. (2023). Making ai less" thirsty": Uncovering and addressing the secret water footprint of ai models. arXiv preprint arXiv:2304.03271. [💾](readings/wk04/)
+3. Gillespie (2024). Generative AI and the politics of visibility. Big Data & Society. [💾](readings/wk04/)
 
 </details>
 
@@ -143,7 +142,7 @@ Our very highest priorities include creating a brave and supportive class enviro
 
 ## :love_letter: Disability Accommodations
 
-We welcome the opportunity to work with any students with disabilities in this class to ensure equal access to the course. If you have a letter from Disability Resources for Students (DRS) outlining your academic accommodations, please present the letter to me (or email us, to confirm, if the letter is electronic) as soon as possible so that we can discuss the accommodations you may need for this class. Any discussions between student and professor need to occur as early as possible in order for adequate arrangements to be made. If you do not yet have a letter from DRS, but would like to request academic accommodations due to a disability, please contact DRS [here (Links to an external site.)](https://depts.washington.edu/uwdrs/), or in-person at 011 Mary Gates Hall, or at 206-543-8924 (Voice & Relay), [mailto:uwdrs@uw.edu](mailto:uwdrs@uw.edu).
+We welcome the opportunity to work with any students with disabilities in this class to ensure equal access to the course. If you have a letter from Disability Resources for Students (DRS) outlining your academic accommodations, please present the letter to me (or email us, to confirm, if the letter is electronic) as soon as possible so that we can discuss the accommodations you may need for this class. Any discussions between student and professor need to occur as early as possible in order for adequate arrangements to be made. If you do not yet have a letter from DRS, but would like to request academic accommodations due to a disability, please contact DRS [here)](https://depts.washington.edu/uwdrs/), or in-person at 011 Mary Gates Hall, or at 206-543-8924 (Voice & Relay), [uwdrs@uw.edu](mailto:uwdrs@uw.edu).
 
 ## :mosque:  Religious Accommodations
 
@@ -155,6 +154,6 @@ It is important that you take care of yourselves inside and outside of class as 
 
 ## :book: Acknowledgement
 
-<a href="https://hgis.uw.edu"><img src="res/logo.png" align="right" width="200px" target="_blank" /></a> This course advocates for the open culture. The course materials are open source for both students and open source community to access. The development of this course was inspired and supported by many generous colleagues and students. I would like to thank Professor Yingjie Hu (University at Buffalo), Professor Lei Zou (Texas A&M University), and Professor Yue Lin (University of Illinois Urbana-Champaign) for their valuable insights. I’m also grateful to Yifan Yang, Haowen Wei, and Haowei Tong who contributed to early explorations with Syllabus and the initial shape of this course during Summer 2024.
+<a href="https://hgis.uw.edu"><img src="res/logo.png" align="right" width="200px" target="_blank" /></a> This course advocates for the open culture. The course materials are open source for both students and open source community to access. The development of this course was inspired and supported by many generous colleagues and students. I would like to thank Professor Yue Lin (University of Illinois Urbana-Champaign) for their valuable insights. I’m also grateful to Yifan Yang, Haowen Wei, and Haowei Tong who contributed to early explorations with Syllabus and the initial shape of this course during Summer 2024.
 
 `© 2019-2025 All rights are reserved by Bo Zhao.`
