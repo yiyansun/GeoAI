@@ -17,6 +17,7 @@ The course is both reading- and lab-driven, structured to balance technical enga
 * **Produce** an independent final essay demonstrating synthesis of technical and critical insights.
 
 > This web page is the syllabus - There is no printed version, please refer here instead. Make sure refer to this page as often as possible. Also, Feel free to ask the instructor for clarifications whenever needed.
+> 
 > **New to Google Colab? No worries—check out [this tutorial](https://colab.research.google.com/) to get started.**
 
 ## Weekly Schedule
