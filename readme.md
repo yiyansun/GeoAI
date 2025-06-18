@@ -8,8 +8,6 @@
 
 The course is both reading- and lab-driven, structured to balance technical engagement with critical reflection. Each week begins with a set of approximately three assigned readings, where students are encouraged to engage actively by bringing in real-world examples and posing critical questions. Most readings are available in the “readings” folder of the course GitHub repository; if not, they can typically be accessed through the UW Library system. Lab sessions are guided but self-directed, offering space for open experimentation, problem-solving, and reflective analysis. You are required to complete four out of the seven total labs: choose either Lab 1 or 2 for Week 1, Lab 3 or 4 for Week 2, Lab 5 or 6 for Week 3, and complete Lab 7 for Week 4. Additionally, one quiz will be assigned each week during the first three weeks, and the final essay is due by the end of Week 4. 
 
-**New to Google Colab? No worries—check out [this tutorial](https://colab.research.google.com/) to get started.**
-
 ### Course Objectives
 
 * **Understand** the technical foundations and workflows of GeoAI, including machine learning, deep learning, and LLMs.
@@ -19,7 +17,7 @@ The course is both reading- and lab-driven, structured to balance technical enga
 * **Produce** an independent final essay demonstrating synthesis of technical and critical insights.
 
 > This web page is the syllabus - There is no printed version, please refer here instead. Make sure refer to this page as often as possible. Also, Feel free to ask the instructor for clarifications whenever needed.
-
+> **New to Google Colab? No worries—check out [this tutorial](https://colab.research.google.com/) to get started.**
 
 ## Weekly Schedule
 
