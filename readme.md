@@ -20,7 +20,6 @@ The course is both reading- and lab-driven, structured to balance technical enga
 
 > This web page is the syllabus - There is no printed version, please refer here instead. Make sure refer to this page as often as possible. Also, Feel free to ask the instructor for clarifications whenever needed.
 
----
 
 ## Weekly Schedule
 
