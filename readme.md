@@ -32,7 +32,7 @@ We begin with an overview of GeoAI’s evolution and its intersections with geog
 1. Li, W., Arundel, S. T., Gao, S., Goodchild, M. F., Hu, Y., Wang, S., & Zipf, A. (2024). GeoAI for science and the science of GeoAI. Journal of Spatial Information Science, (29), 1–25. [💾](readings/wk01/)
 2. Raschka, S., & Mirjalili, V. (2019). Python machine learning: Machine learning and deep learning with Python, scikit-learn, and TensorFlow 2. Packt publishing ltd. Please read Preface, Chapters 1, 2, 3, 4 & 6. You can access the book online by logging in with your UW email through O'Reilly Learning. [💾](https://learning.oreilly.com/library/view/python-machine-learning/9781789955750/Text/Preface.xhtml)
 
-Reading Reflection 1 on Li et al.'s paper (2024)
+Reading Reflection 1 on [Li et al.'s paper (2024)](https://canvas.uw.edu/courses/1810881/discussion_topics/9808627)
 
 Lab 1: [Predicting Boston Housing Prices Using Machine Learning](labs/lab01/)
 
@@ -54,7 +54,7 @@ This week introduces deep learning architectures for interpreting raster imagery
 2. Janowicz, K., Sieber, R., & Crampton, J. (2022). GeoAI, counter-AI, and human geography: A conversation. Dialogues in Human Geography, 12(3), 446-458. [💾](readings/wk02/)
 3. Raschka, S., & Mirjalili, V. (2019). Python machine learning: Machine learning and deep learning with Python, scikit-learn, and TensorFlow 2. Packt publishing ltd. Please read Chapters 15 & 17. You can access the book online by logging in with your UW email through O'Reilly Learning. [💾](https://learning.oreilly.com/library/view/python-machine-learning/9781789955750/Text/Preface.xhtml)
 
-Reading Reflection 2 on either Zhao et al.'s paper (2021) or Janowicz et al's paper (2022).
+Reading Reflection 2 on [either Zhao et al.'s paper (2021) or Janowicz et al's paper (2022)](https://canvas.uw.edu/courses/1810881/discussion_topics/9808628).
 
 
 Lab 3: [Using YOLO to Detect Homeless Camps in Seattle Urban Spaces](labs/lab03/)
@@ -77,7 +77,7 @@ This week turns to natural language as a mode of spatial analysis. Students expl
 2. Lin, Y., & Zhao, B. (2025). Posthuman cartography? Rethinking artificial intelligence, cartographic practices, and reflexivity. Annals of the American Association of Geographers, 115(3), 499-512. [💾](readings/wk03/)
 3. Amaratunga, T. (2023). Understanding large language models: Learning their underlying concepts and technologies. Berkeley, CA: Apress. Please read the whole book. You can access the book online by logging in with your UW email through Springer.[💾](https://link.springer.com/book/10.1007/979-8-8688-0017-7)
 
-Reading Reflection 3 on either Lin and Zhao's paper (2025) or Manvi et al.'s paper (2023)
+Reading Reflection 3 on [either Lin and Zhao's paper (2025) or Manvi et al.'s paper (2023)](https://canvas.uw.edu/courses/1810881/discussion_topics/9808630)
 
 Lab 5: [Prompt-to-Map: Using LLMs for Map Generation and Spatial Analysis](labs/lab05)
 
@@ -199,4 +199,3 @@ It is important that you take care of yourselves inside and outside of class as 
 <a href="https://hgis.uw.edu"><img src="res/logo.png" align="right" width="200px" target="_blank" /></a> This course advocates for the open culture. The course materials are open source for both students and open source community to access. The development of this course was inspired and supported by many generous colleagues and students. I would like to thank Professor Yue Lin (University of Illinois Urbana-Champaign) for their valuable insights. I’m also grateful to Yifan Yang, Haowen Wei, and Tongwei Xu who contributed to early explorations with Syllabus and the initial shape of this course during Summer 2024.
 
 `© 2019-2025 All rights are reserved by Bo Zhao.`
-wo
