@@ -37,15 +37,38 @@ Try one or more of the following:
 3. What new opportunities or risks do AI-based tools like SAM introduce for geographic research or public mapping?
 4. What limits did you observe when trying to apply this method to other types of land cover or imagery?
 
+---
 
 ## ✅ Deliverables
 
-Your submission must include **two parts**:
+All deliverables must be submitted via **Canvas Discussion Board**, under the thread corresponding to this lab (e.g., “Lab  01”). Your Canvas post for this lab should look like:
 
-1. **Notebook:** Include your code and at least one segmentation result, with proper map visualizations and layer explanations.
-2. **Reflection:** Add your written responses to the reflection prompts at the end of the notebook (or submit separately).
+```
+My Colab Notebook: https://colab.research.google.com/drive/your_unique_link_here
 
-Please export both parts into a **PDF** or **Word document** and upload to **Canvas**.
+Reflection:
+
+1. [Your response to question 1 here...]
+2. [Your response to question 2 here...]
+```
+
+You must complete your entire code in a single Google Colab notebook. Your Colab notebook must be **Sharable with both the Instructor (`zhaobo@uw.edu`) and the TA (`lp36@uw.edu`)**
+
+> To share correctly:
+> 1. Click the **“Share”** button in the top-right corner of your Colab window.
+> 2. Under **“Add people and groups”**, enter:  
+>    `zhaobo@uw.edu`, `lp36@uw.edu`
+> 3. Set their access to "**Editor**".
+> 4. Click **“Send”**.
+
+⚠️ **Failure to share your notebook properly will result in an automatic deduction of at least 10% of your lab grade. We take this seriously because improper sharing causes delays for everyone. Please double-check your settings before submitting!**
+
+At the **very top of your Colab**, include the following academic integrity statement:
+
+```markdown
+"I affirm that this notebook was completed independently and that I did not reference or use anyone else's code."
+```
+
 
 **Note:** Lab assignments must be submitted electronically to Canvas by the due date. Late submissions will incur a 10% penalty per day unless prior notice is given for valid reasons such as illness, academic conflicts, or personal emergencies. Flexibility is possible with timely communication, but make-up exams or extensions will only be granted in documented, exceptional cases.
 

@@ -46,14 +46,33 @@ At the end of your lab, please respond to **at least two** of the following ques
 
 ## ✅ Deliverables
 
-Your submission must include **two parts**:
+All deliverables must be submitted via **Canvas Discussion Board**, under the thread corresponding to this lab (e.g., “Lab  01”). Your Canvas post for this lab should look like:
 
-1. **Prompt-Based Coding Experiments:**  
-   Add your custom prompts to the notebook and run the generated workflows. Include any outputs, maps, or evaluations.
+```
+My Colab Notebook: https://colab.research.google.com/drive/your_unique_link_here
 
-2. **Critical Reflection:**  
-   Submit a short written reflection that addresses the questions above.
+Reflection:
 
-Please export both parts into a **PDF or Word document** and upload to **Canvas** by the due date.
+1. [Your response to question 1 here...]
+2. [Your response to question 2 here...]
+```
+
+You must complete your entire code in a single Google Colab notebook. Your Colab notebook must be **Sharable with both the Instructor (`zhaobo@uw.edu`) and the TA (`lp36@uw.edu`)**
+
+> To share correctly:
+> 1. Click the **“Share”** button in the top-right corner of your Colab window.
+> 2. Under **“Add people and groups”**, enter:  
+>    `zhaobo@uw.edu`, `lp36@uw.edu`
+> 3. Set their access to "**Editor**".
+> 4. Click **“Send”**.
+
+⚠️ **Failure to share your notebook properly will result in an automatic deduction of at least 10% of your lab grade. We take this seriously because improper sharing causes delays for everyone. Please double-check your settings before submitting!**
+
+At the **very top of your Colab**, include the following academic integrity statement:
+
+```markdown
+"I affirm that this notebook was completed independently and that I did not reference or use anyone else's code."
+```
+
 
 **Note:** Lab assignments must be submitted electronically to Canvas by the due date. Late submissions will incur a 10% penalty per day unless prior notice is given for valid reasons such as illness, academic conflicts, or personal emergencies. Flexibility is possible with timely communication, but make-up exams or extensions will only be granted in documented, exceptional cases.
