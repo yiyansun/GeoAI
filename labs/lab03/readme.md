@@ -21,8 +21,6 @@ You will:
 
 Click this button to launch the full lab on Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E2WRix3C_BtaJYuaWitYtG4aqP9jra5P)
 
-
-
 ### Coding Experiments:
 
 Try one or more of the following in your notebook:
@@ -32,8 +30,6 @@ Try one or more of the following in your notebook:
 * Adjust the number of epochs, batch size, or input image resolution. How does performance change?
 * Visualize prediction results on an interactive map using Folium.
 * Try predicting on new Street View locations not in the training set.
-
-
 
 ### Written Reflection:
 
@@ -49,7 +45,7 @@ At the end of your lab, please answer **at least two** of the following prompts 
 
 ## ✅ Deliverables
 
-All deliverables must be submitted via **Canvas Discussion Board**, under the thread corresponding to this lab (e.g., “Lab  01”). Your Canvas post for this lab should look like:
+All deliverables must be submitted via **Canvas Discussion Board**, under the thread corresponding to this lab . Your Canvas post for this lab should look like:
 
 ```
 My Colab Notebook: https://colab.research.google.com/drive/your_unique_link_here

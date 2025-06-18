@@ -45,7 +45,7 @@ At the end of your lab, answer **at least two** of the following questions (300�
 
 ## ✅ Deliverables
 
-All deliverables must be submitted via **Canvas Discussion Board**, under the thread corresponding to this lab (e.g., “Lab  01”). Your Canvas post for this lab should look like:
+All deliverables must be submitted via **Canvas Discussion Board**, under the thread corresponding to this lab. Your Canvas post for this lab should look like:
 
 ```
 My Colab Notebook: https://colab.research.google.com/drive/your_unique_link_here
