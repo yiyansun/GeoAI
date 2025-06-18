@@ -168,6 +168,8 @@ This essay is not just about applying a method, but about showing how you unders
 
 ### Evaluation
 
+Your final grade will be based on the following components:
+
 | Component               | Weight |
 | ----------------------- | ------ |
 | Lab Assignments (4)     | 40%    |
@@ -175,6 +177,7 @@ This essay is not just about applying a method, but about showing how you unders
 | Reading Reflections (3) | 26%    |
 | Quizzes (3)             |  9%    |
 
+Each component is designed to balance technical practice with critical engagement. Completing all required pieces on time and with care is essential for success in the course.
 
 ### Equity & Inclusivity
 
@@ -197,3 +200,4 @@ It is important that you take care of yourselves inside and outside of class as 
 <a href="https://hgis.uw.edu"><img src="res/logo.png" align="right" width="200px" target="_blank" /></a> This course advocates for the open culture. The course materials are open source for both students and open source community to access. The development of this course was inspired and supported by many generous colleagues and students. I would like to thank Professor Yue Lin (University of Illinois Urbana-Champaign) for their valuable insights. I’m also grateful to Yifan Yang, Haowen Wei, and Tongwei Xu who contributed to early explorations with Syllabus and the initial shape of this course during Summer 2024.
 
 `© 2019-2025 All rights are reserved by Bo Zhao.`
+wo
