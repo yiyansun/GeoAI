@@ -23,23 +23,22 @@ Click this button to launch the full lab on Colab: [![Open In Colab](https://col
 
 ### Coding Experiments:
 
-Try one or more of the following in your notebook:
+Extend your analysis by adding the following experiments as new code blocks in your notebook:
 
-* Run inference using the pretrained YOLOv8n model. What does it detect?
-* Fine-tune your model using custom “camp” annotations. Compare the results.
-* Adjust the number of epochs, batch size, or input image resolution. How does performance change?
-* Visualize prediction results on an interactive map using Folium.
-* Try predicting on new Street View locations not in the training set.
+* Adjust the number of training epochs, batch size, or input image resolution. Observe how these changes affect training accuracy and validation performance.
+* Experiment with adding more annotated training samples to your dataset. Does increasing the diversity or quantity improve detection quality?
+* Try testing your model on new Google Street View images from different locations within Seattle. Does the model generalize across neighborhoods or city districts?
 
 ### Written Reflection:
 
 At the end of your lab, please answer **at least two** of the following prompts (300–500 words total):
 
 1. What differences did you observe between pretrained and fine-tuned detection?
-2. How well can your trained model generalize to new contexts?
-3. What are the key limitations and opportunities of using deep learning in this task?
-4. What ethical concerns arise from detecting homeless encampments with AI?
-5. How would public mapping of these features—e.g., via OpenStreetMap—impact real people?
+2. How well does your trained model generalize to new images or unseen parts of Seattle?
+3. What changes occurred when you added or replaced training data? Did performance improve?
+4. What are the key limitations and opportunities of using deep learning in this task?
+5. What ethical concerns arise from using AI to detect homeless encampments?
+6. If detection data were published or integrated into public platforms (e.g., OpenStreetMap), what impact might that have on real communities?
 
 ---
 
