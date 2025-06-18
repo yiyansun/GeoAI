@@ -19,16 +19,14 @@ You will:
 
 Click this button to launch the full lab on Colab: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vPi72aGdr-eAXvSuNIBDj4dJHIV0jAW7)
 
----
 
 ## Coding Experiments:
 
-Try one or more of the following extensions in your notebook:
+Extend your analysis by adding the following experiments as new code blocks in your notebook:
 
-- Use one of the pre-generated datasets with 500 or 1000 address points. Does more data reduce collapse or bias?
-- Swap in a different LLM (e.g., GPT-4o via ChatGPT API) for address prediction. Do errors and collapse patterns shift?
+- Use one of the pre-generated datasets with 300 or 500 address points. Does more data reduce collapse or bias?
 - Repeat the same workflow in another city (e.g., Portland, Chicago, or Atlanta). Are results similar or different?
-- Remove precision-limited predictions (e.g., with fewer than 3 decimal places) and assess the impact on overall error.
+- Specify precision-limited predictions (e.g., with fewer than 3 decimal places) and assess the impact on overall error.
 
 ## Written Reflection:
 

@@ -24,9 +24,8 @@ Click this button to launch the full lab on Colab: [![Open In Colab](https://col
 
 ### Coding Experiments:
 
-Choose **at least one** of the following and add your experiment(s) to the notebook:
+Extend your analysis by adding the following experiments as new code blocks in your notebook:
 
-- Try a different index (e.g., EVI or SAVI) and substitute it into the model. Does performance improve?
 - Use fewer features (e.g., only visible bands). What happens to accuracy?
 - Try tuning the number of trees in the Random Forest (e.g., `n_estimators=100` vs `500`). How sensitive is the result?
 - Evaluate model bias by region: Which ROI has the highest prediction error?

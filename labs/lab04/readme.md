@@ -23,12 +23,10 @@ Click this button to launch the full lab on Colab: [![Open In Colab](https://col
 
 ### Coding Experiments
 
-Try one or more of the following:
+Extend your analysis by adding the following experiments as new code blocks in your notebook:
 
 - Replace the bounding box prompts with a new ROI from [geojson.io](https://geojson.io)  
 - Use SAM to detect a different land cover class (e.g., water, rooftops, roads)  
-- Change the `min_size` parameter in `region_groups()` and observe how the output polygon features change  
-- Overlay outputs with external GIS layers such as land use or zoning data
 
 ### Written Reflection (choose two, 300–500 words total)
 

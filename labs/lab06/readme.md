@@ -23,11 +23,10 @@ Click this button to launch the full lab on Colab: [![Open In Colab](https://col
 
 ### Coding Experiments
 
-Try one or more of the following:
+Extend your analysis by adding the following experiments as new code blocks in your notebook:
 
 - Revise the prompt (e.g., remove fields or examples). How does Gemini respond?
 - Compare outputs from different models. Which performs best, and why?
-- Add or modify place descriptions. Can Gemini reason with customized input?
 - Analyze map error: Which locations are misrepresented, and what might explain this?
 
 ### Written Reflection

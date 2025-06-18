@@ -25,9 +25,9 @@ Click this button to launch the full lab on Colab: [![Open In Colab](https://col
 
 Extend your analysis by adding the following experiments as new code blocks in your notebook:
 
-* Adjust the number of training epochs, batch size, or input image resolution. Observe how these changes affect training accuracy and validation performance.
-* Experiment with adding more annotated training samples to your dataset. Does increasing the diversity or quantity improve detection quality?
-* Try testing your model on new Google Street View images from different locations within Seattle. Does the model generalize across neighborhoods or city districts?
+- Adjust the number of training epochs, batch size, or input image resolution. Observe how these changes affect training accuracy and validation performance.
+- Experiment with adding more annotated training samples to your dataset. Does increasing the diversity or quantity improve detection quality?
+- Try testing your model on new Google Street View images from different locations within Seattle. Does the model generalize across neighborhoods or city districts?
 
 ### Written Reflection:
 

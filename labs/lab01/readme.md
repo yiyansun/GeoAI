@@ -22,11 +22,11 @@ Click this button to launch the full lab on Colab: [![Open In Colab](https://col
 
 ### Coding Experiments：
 
-Try one of the following in your notebook:
+Extend your analysis by adding the following experiments as new code blocks in your notebook:
 
-* Change Random Forest or XGBoost hyperparameters. How does performance shift?
-* Remove a variable like CRIM. How does the model respond?
-* Segment model error by price bracket (low, medium, high). What patterns emerge?
+- Change Random Forest or XGBoost hyperparameters. How does performance shift?
+- Remove a variable like CRIM. How does the model respond?
+- Segment model error by price bracket (low, medium, high). What patterns emerge?
 
 
 ### Written Reflection:
