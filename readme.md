@@ -1,9 +1,8 @@
-# **GEOG495: Geospatial Artificial Intelligence**
+# **GEOG495/GEOG428: Geospatial Artificial Intelligence**
 
 - **Instructor:** Bo Zhao, zhaobo@uw.edu, Office Hours: by Appt or via Zoom: https://t.ly/kpj_t 
 - **Teaching Assistant:** Liz Peng, lp36@uw.edu, Office Hours: TBD
 - **Meeting Time:** Asynchronous Online
-
 
 <img src="res/geoai.png" align="right" width="36%" target="_blank" />  This course explores the emerging field of Geospatial Artificial Intelligence (GeoAI), focusing on the integration of machine learning, deep learning, and large language models (LLMs) in the context of geographic data. Students will engage both technically and critically with the tools and concepts shaping the future of spatial and placial analysis. This crush course emphasizes hands-on lab experimentation, paper-driven learning, and critical reflection on the social and epistemological implications of AI-powered geospatial technologies.
 
@@ -37,9 +36,9 @@ Reading Reflection 1 on Li et al.'s paper (2024)
 
 Lab 1: [Predicting Boston Housing Prices Using Machine Learning](labs/lab01/)
 
-Lab 2: [Downscaling Urban Heat of Seattle Using Random Forests](labs/lab02) 
+Lab 2: [Downscaling Urban Heat of Seattle Using Random Forests](labs/lab02)
 
-Quiz 1 on Machine Learning 
+Quiz 1 on Machine Learning
 
 
 </details>
@@ -91,7 +90,7 @@ Quiz 3 on Large Language Models
 
 ### **Week 4: A Deep Dive into GeoAI: Hallucinations, Bias, and Sustainability**
 
-We conclude by examining the sociotechnical risks of GeoAI. Students critically assess hallucinations, embedded bias, and environmental impacts of AI. The week culminates in an exploratory lab and final reflection.
+We conclude by examining the socio-technical risks of GeoAI. Students critically assess hallucinations, embedded bias, and environmental impacts of AI. The week culminates in an exploratory lab and final reflection.
 
 <details>
 <summary><b>Readings, Labs, and Final Essay</b></summary>
@@ -175,7 +174,7 @@ Your final grade will be based on the following components:
 | Lab Assignments (4)     | 40%    |
 | Final Essay             | 25%    |
 | Reading Reflections (3) | 26%    |
-| Quizzes (3)             |  9%    |
+| Quizzes (3)             | 9%     |
 
 Each component is designed to balance technical practice with critical engagement. Completing all required pieces on time and with care is essential for success in the course.
 
