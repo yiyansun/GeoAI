@@ -30,7 +30,7 @@ Extend your analysis by adding the following experiments as new code blocks in y
 - Try tuning the number of trees in the Random Forest (e.g., `n_estimators=100` vs `500`). How sensitive is the result?
 - Evaluate model bias by region: Which ROI has the highest prediction error?
 
-### ✍Written Reflection:
+### Written Reflection:
 
 At the end of your lab, answer **at least two** of the following questions (300–500 words total):
 
