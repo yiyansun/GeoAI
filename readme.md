@@ -1,4 +1,4 @@
-# **GEOG495/GEOG428: Geospatial Artificial Intelligence**
+# **GEOG495/428: Geospatial Artificial Intelligence**
 
 - **Instructor:** Bo Zhao, zhaobo@uw.edu, Office Hours: by Appt or via Zoom: https://t.ly/kpj_t 
 - **Teaching Assistant:** Liz Peng, lp36@uw.edu, Office Hours: TBD
