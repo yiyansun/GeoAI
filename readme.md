@@ -134,8 +134,6 @@ Over the course of four weeks, students are required to complete **four out of s
 
 These labs are designed not only to build technical proficiency, but also to promote **critical reflection** on the design, application, and implications of GeoAI methods.
 
-💡 **Tip:** Treat each lab as both a technical experiment and a space for critical thinking—consider not just *how* the models work, but *why* they matter in geographic contexts.
-
 ### Reading Reflection
 
 Your weekly reading reflection should be at least **350 words** in length and must **critically engage with the specific paper(s) assigned for that week**. The required papers are clearly listed in the course schedule—please make sure your reflection is centered on those. There is no fixed structure you must follow—feel free to experiment with tone and format—but ensure your writing is clear, well-organized, and free of typos. Be sure to cite your sources appropriately. 
