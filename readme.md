@@ -73,7 +73,7 @@ This week turns to natural language as a mode of spatial analysis. Students expl
 <details>
 <summary><b>Readings, Labs, Quiz and Weekly Reflections</b></summary>
 
-1. Manvi, R., Khanna, S., Mai, G., Burke, M., Lobell, D., & Ermon, S. (2023). GeoLLM: Extracting geospatial knowledge from large language models. arXiv preprint arXiv:2310.06213. https://arxiv.org/abs/2310.06213 [💾](readings/wk03/)
+1. Manvi, R., Khanna, S., Mai, G., Burke, M., Lobell, D., & Ermon, S. (2023). GeoLLM: Extracting geospatial knowledge from large language models. arXiv preprint [💾](readings/wk03/)
 2. Lin, Y., & Zhao, B. (2025). Posthuman cartography? Rethinking artificial intelligence, cartographic practices, and reflexivity. Annals of the American Association of Geographers, 115(3), 499-512. [💾](readings/wk03/)
 3. Amaratunga, T. (2023). Understanding large language models: Learning their underlying concepts and technologies. Berkeley, CA: Apress. Please read the whole book. You can access the book online by logging in with your UW email through Springer.[💾](https://link.springer.com/book/10.1007/979-8-8688-0017-7)
 
