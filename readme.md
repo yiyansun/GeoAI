@@ -38,7 +38,7 @@ Lab 1: [Predicting Boston Housing Prices Using Machine Learning](labs/lab01/)
 
 Lab 2: [Downscaling Urban Heat of Seattle Using Random Forests](labs/lab02)
 
-Quiz 1 on Machine Learning
+[Quiz 1 on Machine Learning](https://canvas.uw.edu/courses/1810881/quizzes/2222980)
 
 
 </details>
