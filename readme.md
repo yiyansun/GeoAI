@@ -132,7 +132,7 @@ Over the course of four weeks, students are required to complete **four out of s
 - **Week 3:** Complete **either Lab 5 or Lab 6**
 - **Week 4:** Complete **Lab 7 (required)**
 
-These labs are designed not only to build technical proficiency, but also to promote **critical reflection** on the design, application, and implications of GeoAI methods. The lab rubric can be found fron this [link](labrubric.md).
+These labs are designed not only to build technical proficiency, but also to promote **critical reflection** on the design, application, and implications of GeoAI methods. The lab rubric can be found from this [link](labrubric.md).
 
 ### Reading Reflection
 
