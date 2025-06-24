@@ -1,4 +1,4 @@
-# ** Lab Rubric: How It Works for All Labs**
+# Lab Rubric: How It Works for All Labs
 
 Each lab is worth **10 points total**, broken down into:
 
