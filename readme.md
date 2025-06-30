@@ -61,7 +61,7 @@ Lab 3: [Using YOLO to Detect Homeless Camps in Seattle Urban Spaces](labs/lab03/
 
 Lab 4: [Geospatial Segmentation with SAM: Deep Learning for Tree Canopy Detection](labs/lab04/)
 
-[Quiz 2 on Deep Learning] (https://canvas.uw.edu/courses/1810881/quizzes/2222980)
+[Quiz 2 on Deep Learning](https://canvas.uw.edu/courses/1810881/quizzes/2222980)
 
 </details>
 
