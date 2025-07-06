@@ -24,7 +24,7 @@ Launch the lab notebook on Colab: [![Open In Colab](https://colab.research.googl
 
 ### Coding Experiments
 
-Try one of the following prompt explorations:
+Extend your analysis by adding the following experiments as new code blocks in your notebook:
 
 - Change the point of interest (e.g., from coffee shops to public parks).
 - Use a vague or minimalist prompt—what gets left out or misinterpreted?
