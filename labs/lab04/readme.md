@@ -19,7 +19,7 @@ You will:
 
 > **Guiding question:** How does deep learning enable new forms of geographic knowledge, and what are the limits of “segmenting anything” in a spatial context?
 
-Click this button to launch the full lab on Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EseH1JT-iZGVGCtAT69vWta0s4TQVyIQ)
+Click this button to launch the full lab on Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1onjpppwxz1_kUrGlEWjk5_2FOFBAlNCF)
 
 ### Coding Experiments
 
